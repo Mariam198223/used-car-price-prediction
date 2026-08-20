@@ -342,27 +342,30 @@ if predict:
             # Prediction Result
             # ======================================
 
-            st.success(
-                "Prediction completed successfully! 🚀"
-            )
+            # ======================================
+  # Prediction Result
+     # ======================================
 
-            st.metric(
-                label="Estimated Car Price",
-                value=f"${predicted_price:,.2f}"
-            )
+if predicted_price <= 0:
 
-            st.caption(
-                f"{name} • {year} • {miles:,} miles"
-            )
+    st.warning(
+        "🤨 This car doesn't look like a good deal!"
+    )
 
+else:
 
-        except Exception as e:
+    st.success(
+        "Prediction completed successfully! 🚀"
+    )
 
-            st.error(
-                "An error occurred while making the prediction."
-            )
+    st.metric(
+        label="Estimated Car Price",
+        value=f"${predicted_price:,.2f}"
+    )
 
-            st.code(str(e))
+    st.caption(
+        f"{name} • {year} • {miles:,} miles"
+    )
 
 
 # ==========================================
