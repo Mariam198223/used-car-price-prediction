@@ -146,6 +146,8 @@ with col2:
 
     year = st.number_input(
         "Year",
+        min_value=2000,
+        max_value=2024
         value=2020,
         step=1
     )
@@ -354,7 +356,7 @@ if predict:
             if predicted_price <= 0:
 
                 st.warning(
-                    "We don’t price cars like that ,try the nearest junkyard instead🫪"
+                    "We don’t price cars like that ,try the nearest junkyard instead😘"
                 )
 
             else:
