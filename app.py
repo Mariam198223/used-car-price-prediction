@@ -150,8 +150,11 @@ with col2:
         step=1
     )
 
-    if year < 2000 or year > 2024:
-        st.error("Year must be between 2000 and 2024.")
+    if year > 2024:
+        st.error("You really wanna convince me you can afford a car newer than a 2024 model?")
+    elif year < 2000 :
+        st.error("Sorry, nothing older than a 2000 model here. 💀")
+
 
 
 # ==========================================
@@ -171,7 +174,7 @@ with col3:
 
     if miles > 310000:
         st.warning(
-            "That's a long journey! Max: 310,000 miles."
+            "Over 310,000 miles? Honestly, just save your money and don’t buy a car.🥸"
         )
 
 
