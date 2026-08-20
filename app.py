@@ -151,14 +151,14 @@ with col1:
 
 with col2:
 
-    year = st.number_input(
-        "Year",
-        min_value=2000,
-        max_value=2024,
-        value=2020,
-        step=1
-    )
-    st.caption("⚠️ Please enter a year between 2000 and 2024.")
+  year = st.number_input(
+    "Year",
+    value=2020,
+    step=1
+)
+
+if year < 2000 or year > 2024:
+    st.error("⚠️ The allowed year range is from 2000 to 2024.")
 
 # ==========================================
 # Row 2
