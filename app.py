@@ -151,10 +151,16 @@ with col2:
     )
 
     if year > 2024:
-        st.error("You really wanna convince me you can afford a car newer than a 2024 model?")
-    elif year < 2000 :
-        st.error("Sorry, nothing older than a 2000 model here. 💀")
 
+        st.error(
+            "You really wanna convince me you can afford a car newer than a 2024 model?"
+        )
+
+    elif year < 2000:
+
+        st.error(
+            "Sorry, nothing older than a 2000 model here. 💀"
+        )
 
 
 # ==========================================
@@ -173,6 +179,7 @@ with col3:
     )
 
     if miles > 310000:
+
         st.warning(
             "Over 310,000 miles? Honestly, just save your money and don’t buy a car.🥸"
         )
@@ -188,6 +195,7 @@ with col4:
     )
 
     if accidents > 5:
+
         st.warning(
             "5+ accidents? Looking for a car or scrap? 🤨"
         )
@@ -209,6 +217,7 @@ with col5:
     )
 
     if Owner > 8:
+
         st.warning(
             "8 owners is enough, dear! ✋🏻😔"
         )
@@ -342,30 +351,35 @@ if predict:
             # Prediction Result
             # ======================================
 
-            # ======================================
-  # Prediction Result
-     # ======================================
+            if predicted_price <= 0:
 
-if predicted_price <= 0:
+                st.warning(
+                    "🤨 This car doesn't look like a good deal!"
+                )
 
-    st.warning(
-        "🤨 This car doesn't look like a good deal!"
-    )
+            else:
 
-else:
+                st.success(
+                    "Prediction completed successfully! 🚀"
+                )
 
-    st.success(
-        "Prediction completed successfully! 🚀"
-    )
+                st.metric(
+                    label="Estimated Car Price",
+                    value=f"${predicted_price:,.2f}"
+                )
 
-    st.metric(
-        label="Estimated Car Price",
-        value=f"${predicted_price:,.2f}"
-    )
+                st.caption(
+                    f"{name} • {year} • {miles:,} miles"
+                )
 
-    st.caption(
-        f"{name} • {year} • {miles:,} miles"
-    )
+
+        except Exception as e:
+
+            st.error(
+                "An error occurred while making the prediction."
+            )
+
+            st.code(str(e))
 
 
 # ==========================================
