@@ -1,0 +1,2313 @@
+name,year,miles,price,accidents,Owner,exterior_color,interior_color
+Kia Forte,2022,41406,15988,0,1,Gray,Black
+Chevrolet Silverado 1500,2021,15138,38008,1,1,White,Black
+Toyota RAV4,2022,32879,24988,0,1,Silver,Unknown
+Honda Civic,2020,37190,18998,0,1,Blue,Black
+Honda Civic,2020,27496,19498,0,1,Black,Black
+Honda Civic,2020,29026,21000,1,1,Silver,Black
+Honda Accord,2019,4148,20998,1,1,Black,Black
+Mercedes-Benz GLC,2018,57602,18887,1,3,Blue,Unknown
+Honda Civic,2020,50240,19498,1,1,Black,Black
+BMW 5 Series,2013,56766,17998,0,3,White,Black
+Jeep Wrangler,2018,44099,30998,0,2,Gray,Black
+Honda Civic,2020,11140,20998,0,1,Black,Black
+Honda Civic,2020,8506,22597,0,1,Gray,Black
+Mercedes-Benz GLC,2021,38760,29998,0,1,Black,Black
+Porsche Macan,2020,27002,39998,0,2,White,Black
+Honda Civic,2021,22850,21998,0,1,White,Black
+Buick Cascada,2016,68660,17998,1,2,White,Beige
+BMW 3 Series,2014,55079,17998,0,2,White,Black
+Jeep Grand Cherokee,2017,64337,19598,0,2,White,Black
+Mercedes-Benz C-Class,2018,83424,18285,1,2,White,Black
+Porsche Cayenne,2021,21991,102167,0,1,Silver,Black
+Honda Odyssey,2019,61318,26998,0,1,Black,Brown
+Mercedes-Benz GLC,2020,36064,26839,1,1,White,Unknown
+BMW 7 Series,2015,57707,27998,0,3,White,Black
+Mercedes-Benz GLC,2020,38981,26518,1,1,Black,Black
+Kia K5,2022,33632,19988,0,1,White,Black
+Nissan Kicks,2021,51560,16488,0,1,Gray,Black
+Mercedes-Benz C-Class,2021,18769,29990,0,1,Silver,Unknown
+Honda CR-V,2020,74031,23998,0,1,Gray,Gray
+Honda Civic,2020,16112,20998,0,1,White,Beige
+Honda CR-V,2019,17123,24498,1,1,Gray,Black
+Honda Civic,2016,71406,16498,1,2,Gray,Gray
+Chrysler Pacifica,2018,73428,19998,0,2,White,Black
+Volkswagen Tiguan,2020,28897,20998,1,1,White,Black
+BMW 3 Series,2015,60478,16998,1,2,Black,Black
+Porsche Cayenne,2020,44880,43998,0,3,Silver,Black
+Honda CR-V,2022,23215,27798,0,1,White,Black
+Nissan Sentra,2021,24044,20998,0,1,Black,Black
+Volkswagen Tiguan,2019,50950,20998,0,1,Gray,Black
+Toyota Camry,2020,36853,23998,1,1,Gray,Black
+Chevrolet Malibu,2022,32668,19998,0,1,Gray,Gray
+Volkswagen Tiguan,2021,50142,17998,0,1,Gray,Black
+Chevrolet Volt,2017,91969,14998,1,1,Black,Black
+Land Rover Range Rover Sport,2016,74525,20994,1,2,Black,Beige
+Toyota Highlander,2021,16462,35037,0,1,White,Beige
+Kia Optima,2015,86935,15998,0,1,White,Beige
+Dodge Charger,2016,120296,20998,0,1,Gray,Black
+Jeep Grand Cherokee,2015,29063,23998,0,1,Gray,Black
+Toyota Corolla,2022,33167,20222,0,1,White,Black
+Honda Civic,2020,11593,20698,0,1,Red,Black
+Jeep Wrangler,2019,58038,27998,0,3,White,Black
+BMW 3 Series,2015,78479,15998,0,2,White,Black
+Honda Odyssey,2012,122285,14998,0,1,Gray,Gray
+Toyota Tacoma,2015,87121,21499,1,2,Gray,Gray
+Toyota 4Runner,2021,25671,40998,0,1,Gray,Black
+Ford Mustang,2015,107676,14300,0,2,Orange,Black
+Ford F-150,2023,131,60800,0,1,Gray,Black
+Toyota RAV4,2022,38375,24988,0,1,Silver,Unknown
+Honda CR-V,2013,76825,16998,0,1,Gray,Black
+Honda Accord,2019,58575,21788,0,2,White,Black
+Honda Accord,2021,34447,24498,0,1,Black,Black
+Toyota Camry,2016,100359,16998,1,2,White,Black
+Honda Pilot,2021,42840,28998,1,1,White,Black
+Nissan Rogue Sport,2022,7415,26998,0,1,Gray,Black
+INFINITI QX60,2020,31907,28998,0,1,Blue,Beige
+Volvo XC60,2021,34656,33998,0,1,Blue,Brown
+Honda Pilot,2017,97438,21670,0,1,Red,Black
+Ford Explorer,2017,115951,15998,0,2,White,Beige
+Chevrolet Equinox,2020,108281,15998,1,2,White,Black
+Mercedes-Benz GLC,2019,67648,22999,0,2,Black,Black
+Mercedes-Benz GLE,2021,21413,42762,0,1,Black,Black
+Chevrolet Volt,2013,102479,12599,0,5,Silver,Black
+Jeep Grand Cherokee,2018,67086,24998,0,2,White,Black
+Honda Accord,2023,2414,25998,0,1,White,Black
+Honda Odyssey,2019,51617,28998,1,1,Silver,Brown
+BMW 3 Series,2017,78006,17998,1,2,Gray,Black
+Jeep Wrangler,2016,82472,23998,0,1,Black,Black
+Chevrolet Malibu,2022,36517,16499,0,1,Silver,Black
+Mercedes-Benz S-Class,2015,62007,29333,0,2,Blue,Beige
+Nissan Sentra,2019,50045,16998,0,2,Gray,Black
+Volvo S90,2019,30202,26989,0,2,Black,Black
+BMW X3,2021,12093,32998,0,1,Black,Black
+Mercedes-Benz C-Class,2017,46904,25998,3,3,White,Black
+Mercedes-Benz GLS,2019,22998,39999,1,1,Silver,Black
+Ford Mustang,2014,84324,18481,1,2,Silver,Black
+Ford Bronco Sport,2022,5335,26495,1,1,Black,Black
+Toyota Camry,2018,13411,24998,1,1,Black,Black
+Mitsubishi Outlander Sport,2020,53961,15999,0,2,Black,Black
+Volvo XC90,2016,126749,19998,0,3,Black,Brown
+Honda Odyssey,2021,30252,35498,0,1,Gray,Unknown
+Kia Forte,2021,37385,14999,0,1,White,Black
+Lexus RX,2020,37965,35998,0,1,Black,Black
+Mercedes-Benz E-Class,2022,27642,41998,0,1,Gray,Black
+Nissan Versa,2017,87358,8488,1,1,Gray,Black
+Jeep Wrangler,2021,19914,35998,0,1,Gray,Black
+Ford Edge,2017,89932,13998,0,2,Black,Black
+Toyota Camry,2023,19140,24575,0,1,White,Unknown
+BMW 7 Series,2019,66896,28624,0,1,Black,Black
+Mercedes-Benz S-Class,2020,17122,59930,0,2,White,Black
+Chevrolet Silverado 1500,2021,41233,32197,1,2,White,Black
+Lexus RX,2011,95016,15049,0,2,Red,Black
+Honda Civic,2016,88063,17998,1,3,Silver,Black
+BMW 4 Series,2017,70468,20998,0,2,Gray,Black
+Hyundai Sonata,2013,95775,13998,0,2,Silver,Gray
+BMW X4 M,2022,24935,64998,0,2,White,Orange
+Chrysler 300,2021,63819,20599,0,1,Black,Black
+Ford Fusion,2018,67207,16998,0,2,Gray,Black
+Mazda Mazda3,2016,48616,18998,0,1,Red,Black
+Mercedes-Benz GLA,2021,39860,26965,0,1,Silver,Black
+Lexus LX,2018,60028,53998,3,1,White,Red
+Chevrolet Blazer,2020,23724,24998,1,1,Gray,Black
+Nissan Altima,2021,58885,17993,0,1,Black,Black
+Ford Bronco Sport,2022,18887,29795,0,1,Gray,Black
+BMW 3 Series,2016,77896,14621,1,2,White,Beige
+Mazda CX-9,2014,102507,10498,0,2,Silver,Black
+Honda S2000,2000,15600,39998,0,1,Black,Black
+Toyota Tacoma,2019,48925,27555,0,2,Gray,Gray
+Toyota Tacoma,2017,97372,21555,1,2,Gray,Gray
+Mercedes-Benz GLA,2022,2885,45999,0,1,Black,Black
+Toyota Corolla,2021,44630,17000,1,2,Gray,Black
+Hyundai Palisade,2020,47492,29000,0,1,Black,Black
+Ford Transit Connect Van,2019,66478,22995,0,1,White,Black
+Honda Odyssey,2020,26469,31997,0,1,White,Gray
+Ford Explorer,2022,10608,45828,0,1,White,Black
+Ford Fusion,2015,83650,11995,0,1,White,Gray
+Volvo S60,2018,55196,18975,0,2,Gray,Black
+Volkswagen Tiguan,2020,17193,19490,0,1,Black,Black
+Mercedes-Benz S-Class,2014,88900,24502,0,1,White,Beige
+Chevrolet Traverse,2020,57826,28600,1,1,White,Black
+Mercedes-Benz C-Class,2020,30791,24791,1,1,Silver,Gray
+Toyota Corolla,2021,11703,18782,0,1,Black,Gray
+Land Rover Range Rover Sport,2013,124544,11995,0,3,Silver,Black
+Acura RDX,2021,44809,28250,0,1,White,Black
+Honda Civic,2021,19299,18998,1,1,Gray,Black
+Volvo XC90,2021,30944,38749,0,1,Blue,Beige
+Honda Civic,2021,20684,22500,0,1,White,Black
+Maserati Quattroporte,2019,66469,28421,0,1,Blue,Brown
+Land Rover Range Rover Sport,2021,53743,47995,0,1,Black,Black
+Chevrolet Equinox,2020,28980,19795,0,1,Black,Black
+Hyundai Accent,2016,94267,6999,0,2,White,Gray
+Ford Edge,2020,9494,26795,0,1,Gray,Black
+Chevrolet Equinox,2021,64971,16289,0,1,Blue,Black
+Volvo XC90,2018,51994,24999,0,1,Silver,Black
+Lexus RX,2020,28999,30999,1,2,Black,Unknown
+Land Rover Range Rover,2018,35993,47999,0,2,White,Black
+Ford Fusion,2018,61962,14788,0,1,Blue,Black
+Mercedes-Benz C-Class,2020,15698,30006,0,1,Black,Beige
+Toyota RAV4,2021,33636,24333,0,1,Red,Black
+Jeep Gladiator,2020,38465,28799,0,1,White,Black
+Chevrolet Silverado 1500,2023,6779,58890,0,1,Gray,Black
+Mercedes-Benz E-Class,2019,38783,29750,0,1,White,Black
+Dodge Charger,2019,42526,18000,0,1,White,Black
+Volkswagen Tiguan,2020,41266,18991,0,1,Gray,Black
+Chevrolet Malibu,2018,84208,10995,0,3,White,Black
+Ford Ranger,2019,45072,26495,0,1,Gray,Black
+Chevrolet Tahoe,2018,33118,36295,0,1,Black,Black
+Honda Civic,2020,18650,20683,0,1,Silver,Black
+Toyota Tacoma,2023,6828,39500,0,1,Silver,Black
+Chevrolet Camaro,2014,76071,13850,1,1,Black,Black
+Toyota Corolla,2021,62758,16900,0,1,Black,Black
+Toyota Camry,2020,68181,18988,1,1,Black,Gray
+Kia Soul,2022,43839,14999,0,1,White,Black
+Honda Civic,2012,100774,9900,0,2,Blue,Gray
+Toyota Corolla,2022,32604,17599,0,1,Black,Black
+Toyota RAV4,2021,18746,24999,0,1,White,Unknown
+Subaru Outback,2020,43468,22000,0,1,White,Gray
+Ford F-150,2021,66206,36475,0,1,Black,Black
+Land Rover Range Rover Velar,2019,26989,44395,0,1,White,Unknown
+Honda HR-V,2020,32972,22143,0,1,Gray,Black
+Ford F-150,2014,99018,14495,0,1,White,Gray
+Mercedes-Benz CLA,2020,25905,36966,0,2,White,Black
+Toyota Tacoma,2021,19950,33333,0,1,Green,Gray
+Honda Accord,2014,54424,17498,0,3,Tan,Beige
+Jeep Wrangler,2018,50216,24000,1,3,White,Black
+Nissan Altima,2015,101629,12599,0,2,Black,Black
+Ford Explorer,2020,31907,39998,0,1,Gray,Black
+Honda Civic,2021,27185,25998,0,1,White,Black
+Ford Fiesta,2014,97490,10998,1,3,Gray,Black
+Nissan Sentra,2015,56977,14998,0,3,Black,Black
+Toyota Venza,2014,113327,14599,2,4,Silver,Gray
+Mercedes-Benz GLC,2019,37682,26998,0,1,Black,Black
+Honda Civic,2019,45246,21998,0,2,White,Black
+Mercedes-Benz GLE,2016,69891,22998,1,1,White,Gray
+Volkswagen Tiguan,2019,73055,18998,0,1,White,Black
+Mercedes-Benz CLA,2023,9735,37815,0,1,White,Black
+Honda HR-V,2023,3590,24480,0,1,Unknown,Gray
+Mercedes-Benz GLB,2020,24121,27179,0,2,Black,Black
+BMW i3,2016,62200,12999,0,3,White,Gray
+Ford Bronco,2022,10611,46997,0,1,Black,Unknown
+Subaru WRX,2019,38318,26298,0,4,Gray,Black
+Kia Forte,2022,38804,15199,0,1,White,Black
+Honda Civic,2020,46024,19998,0,1,Blue,Unknown
+Toyota Corolla,2021,21209,22993,1,1,Red,Black
+Volkswagen Jetta,2019,19267,17991,0,1,White,Black
+Ford Edge,2023,4706,34770,0,1,White,Black
+Ford Edge,2020,23841,27995,0,1,White,Black
+Land Rover Range Rover,2014,74950,29995,1,1,White,Beige
+Toyota Corolla,2014,103439,12750,0,4,Gray,Black
+Toyota Camry,2022,31535,21899,0,1,White,Black
+BMW X5,2021,40003,36996,1,1,Gray,Brown
+Land Rover Range Rover Sport,2014,109322,18995,0,4,White,Unknown
+Land Rover Range Rover Sport,2015,25995,25995,0,5,Unknown,Unknown
+Lexus IS,2014,101232,16795,2,3,White,Beige
+BMW X3,2021,47167,26698,0,1,Gray,Black
+Honda Civic,2021,27790,22498,0,1,Black,Black
+Mercedes-Benz E-Class,2021,16386,35756,0,1,Black,Black
+Honda Civic,2018,77068,14987,0,3,White,Gray
+Chevrolet Silverado 1500,2018,20165,41000,0,1,Gray,Black
+Toyota Camry,2022,31634,22100,0,1,Silver,Black
+Ford Transit Passenger Wagon,2021,61023,42993,0,2,White,Black
+Toyota Corolla,2022,38484,18498,0,1,Blue,Black
+Mercedes-Benz C-Class,2020,26488,24990,0,2,Blue,Beige
+Mercedes-Benz GLE,2021,41592,36991,0,1,Black,Black
+Kia Forte,2022,39844,15199,0,1,White,Black
+Toyota Camry,2023,14771,25995,0,1,Unknown,Unknown
+Toyota Tacoma,2022,9629,40991,0,1,White,Black
+BMW 3 Series,2017,86333,15600,0,2,Gray,Black
+Mercedes-Benz GLE,2021,40995,59888,0,1,White,Black
+Audi Q5,2021,23982,33949,0,1,Black,Black
+Toyota Corolla,2021,17471,17987,1,1,Gray,Black
+Chevrolet Blazer,2021,33980,24986,0,1,White,Black
+Toyota Corolla,2022,47087,17999,0,2,Black,Unknown
+Maserati GranTurismo,2014,52973,39999,0,2,Black,Beige
+Mercedes-Benz C-Class,2021,18741,30651,0,1,Blue,Beige
+Toyota Camry,2020,64716,18700,0,1,Gray,Black
+Toyota Corolla,2021,18446,19781,2,1,White,Black
+Chevrolet Camaro,2011,138514,7000,1,2,White,Black
+Mercedes-Benz CLA,2020,37974,26374,1,1,Silver,Beige
+Subaru Outback,2024,2455,31999,0,1,Gray,Gray
+Audi Q3,2021,52381,22399,0,1,White,Black
+Lexus RC,2016,74595,23888,1,2,Silver,Black
+Chevrolet Tahoe,2021,21756,62495,0,2,Black,Black
+Toyota Corolla,2020,46357,16999,1,2,Black,Black
+Ford Focus,2016,104788,7499,0,3,Silver,Black
+Mercedes-Benz GLC,2022,12483,35136,0,1,White,Black
+Nissan Maxima,2017,90382,18998,0,1,White,Black
+Nissan Altima,2016,84634,14998,1,2,White,Black
+Hyundai Elantra,2013,113669,11599,0,1,White,Beige
+Chevrolet Malibu,2022,28464,17991,0,1,White,Black
+Audi S3,2016,54042,25998,1,4,Blue,Black
+Dodge Challenger,2022,27530,26700,0,1,Black,Black
+Nissan Rogue,2021,28753,21239,0,1,Gray,Black
+Nissan Altima,2015,93969,12998,1,2,Black,Black
+Toyota Corolla,2022,51240,18987,0,1,Gray,Unknown
+Toyota Camry,2020,22440,29222,0,1,Blue,Black
+Kia Seltos,2021,34451,18376,0,1,Gray,Black
+Toyota Camry,2020,34491,24998,1,1,Blue,Black
+Chevrolet Traverse,2017,60307,18998,0,1,Silver,Gray
+BMW 3 Series,2020,31684,24696,1,1,Gray,Beige
+Audi Q3,2018,34641,23998,0,1,White,Black
+Toyota Highlander,2022,49766,39595,0,1,Silver,Black
+Honda Civic,2017,79022,19998,3,2,Red,Black
+Mercedes-Benz C-Class,2021,12194,30258,0,1,White,Beige
+BMW 3 Series,2018,56467,22998,1,2,White,Black
+Toyota Camry,2021,65107,20666,0,1,Black,Black
+Jeep Grand Cherokee,2018,48895,22995,2,1,Gray,Black
+Volkswagen Tiguan,2017,57467,17998,0,2,Black,Black
+BMW 3 Series,2020,60921,22000,0,1,Black,Beige
+Hyundai Sonata,2015,57114,9993,1,1,Red,Beige
+Jeep Compass,2019,84793,17998,1,3,Black,Black
+Toyota RAV4,2021,24639,27998,0,1,Black,Black
+Toyota Corolla,2021,74700,16642,0,2,White,Black
+Kia Optima,2016,75067,15998,2,2,Gray,Gray
+Mercedes-Benz C-Class,2017,54673,22998,1,2,Blue,Unknown
+Mercedes-Benz A-Class,2020,16946,25997,1,1,Black,Black
+Land Rover Defender,2020,32049,59998,0,1,Green,Green
+Ford F-150,2023,189,44700,0,1,Red,Black
+Hyundai Elantra,2020,28846,18998,0,1,White,Beige
+Toyota Corolla,2022,53358,17888,0,1,Blue,Black
+Kia Forte,2021,17253,17631,0,1,White,Black
+Audi allroad,2013,86955,15998,1,1,Black,Black
+BMW X3,2014,58663,18998,0,1,Gray,Black
+Nissan Pathfinder,2019,61819,17988,0,3,Silver,Black
+Mercedes-Benz C-Class,2019,32753,32446,0,2,White,Black
+Lexus NX,2022,14516,42991,0,1,White,Red
+Mazda Mazda3,2018,67973,17998,1,2,Red,Black
+BMW 4 Series,2019,53278,28998,0,2,White,White
+Mercedes-Benz E-Class,2012,97196,11850,1,3,Silver,Black
+Dodge Charger,2016,89836,22998,1,1,Black,Black
+Lexus LS,2015,63131,25850,1,2,White,Black
+BMW 3 Series,2013,77674,12900,2,4,Black,Beige
+Honda Civic,2020,36858,21998,0,1,Blue,Black
+Jaguar F-PACE,2020,26515,30994,0,1,White,Unknown
+BMW 5 Series,2020,12563,30996,0,1,White,Black
+Dodge Charger,2019,42531,18700,0,1,White,Black
+Honda Civic,2022,17593,27419,0,1,Black,Black
+Volkswagen Atlas,2021,17081,29089,0,1,Gray,Black
+GMC Canyon,2016,81653,24998,0,2,Silver,Black
+Jeep Wrangler,2020,41453,29499,0,1,Silver,Black
+Honda Civic,2013,99911,10987,2,2,Gray,Black
+Dodge Grand Caravan,2019,89118,12650,0,2,Gray,Black
+Porsche Macan,2021,35286,48998,0,1,Black,Black
+Toyota RAV4,2021,65810,22981,0,1,Blue,Unknown
+BMW X3,2020,25170,27888,0,1,Black,Black
+Mercedes-Benz C-Class,2021,27643,30806,0,1,White,Black
+BMW X1,2018,52323,21998,0,1,Black,Black
+Mercedes-Benz GLC,2020,44407,25995,0,1,Black,Black
+Volkswagen Jetta,2019,39057,15190,0,1,Black,Gray
+Subaru Outback,2023,4001,31989,0,1,Black,Beige
+Chevrolet Silverado 1500,2021,23211,35498,0,1,Silver,Black
+Kia Forte,2023,1292,23998,0,1,Black,Black
+Volkswagen CC,2015,65361,11500,0,3,Silver,Black
+Hyundai Kona,2021,13995,16298,0,3,White,Gray
+Kia K5,2022,40143,17500,0,1,White,Black
+Jeep Wrangler,2020,41074,29499,0,1,Silver,Black
+Nissan Frontier,2022,21865,28988,0,1,Gray,Black
+Land Rover Range Rover Sport,2016,64238,25888,0,1,Black,Black
+Volkswagen Tiguan,2020,52955,20998,0,1,Silver,Black
+Subaru WRX,2018,12876,28598,0,1,White,Black
+Nissan Sentra,2017,40583,15998,0,2,Red,Black
+Hyundai Accent,2017,89257,7999,1,3,Blue,Gray
+Nissan Rogue,2016,40259,17998,1,2,Gray,Black
+Ford F-150,2022,12958,44598,0,0,Blue,Black
+BMW X5,2021,38529,37986,0,1,Black,Black
+Toyota Prius Prime,2021,21005,27715,0,1,Silver,Black
+Subaru Forester,2021,37997,26449,0,1,White,Brown
+Mercedes-Benz GLB,2023,3837,41886,0,1,Gray,Gray
+Toyota Camry,2014,90348,15998,0,1,White,Gray
+Buick Encore,2019,26251,18798,0,1,Red,Black
+Kia K5,2021,11972,23766,0,1,Gray,Black
+Volvo XC90,2021,30632,45787,0,1,Gray,Beige
+Mercedes-Benz C-Class,2020,28001,27680,0,2,Silver,Gray
+Chevrolet Silverado 1500,2023,15933,53750,0,1,Blue,Black
+Mercedes-Benz GLA,2020,26763,22591,0,1,White,Beige
+Chevrolet Corvette,2016,26660,64250,0,5,White,Black
+Ford Mustang,2021,22166,26998,0,2,Black,Black
+Dodge Challenger,2021,25643,21959,0,1,White,Black
+Honda Civic,2020,12070,21688,0,1,Red,Black
+Honda Accord,2018,19668,23998,0,1,Gray,Black
+Honda CR-V,2020,25927,24998,0,1,Black,Black
+Ford F-150,2010,269638,6666,0,7,White,Black
+Subaru Outback,2020,15118,26949,0,1,Silver,Gray
+Jeep Wrangler,2021,69341,27000,0,1,White,Black
+Acura MDX,2013,91230,16998,1,1,Blue,Gray
+Ford Fusion,2019,20687,22998,0,1,White,Black
+Cadillac XT5,2018,86034,21998,0,1,Black,Black
+Nissan Sentra,2020,28711,19998,1,1,Silver,Black
+Jeep Cherokee,2021,10350,24222,0,1,Gray,Black
+Toyota Highlander,2013,74780,20998,0,2,Gray,Gray
+Lexus RX,2021,24526,36794,0,1,Black,Black
+Lexus NX,2023,2880,46998,0,1,White,Black
+Subaru Crosstrek,2021,20653,25299,3,1,Red,Black
+Ram 1500 Classic,2020,38374,26998,0,1,Blue,Black
+Subaru Outback,2020,28693,23889,0,1,Black,Gray
+Lexus ES,2017,138015,13999,1,2,Unknown,Unknown
+BMW X5,2017,38477,28998,1,2,Gray,Black
+Jeep Compass,2020,40839,16819,1,2,White,Black
+Mazda CX-5,2022,10225,29998,0,2,Gray,Black
+Honda Civic,2021,25387,19649,0,1,Silver,Gray
+Nissan Sentra,2022,22045,17799,0,1,Black,Black
+Nissan Altima,2020,45891,17998,0,2,Gray,Black
+Porsche Macan,2020,18629,39998,0,1,White,Black
+Honda HR-V,2022,33778,20200,0,1,Black,Black
+Lexus ES,2019,18131,30369,2,1,Black,Black
+Chevrolet Camaro,2022,33204,23900,0,1,Black,Gray
+Mercedes-Benz CLA,2021,26118,24991,0,1,White,Black
+Ford Transit Passenger Wagon,2018,49057,37997,0,2,White,Black
+Mercedes-Benz E-Class,2020,4339,39460,0,1,White,Black
+Volkswagen Passat,2021,63535,17987,0,1,White,Black
+Mercedes-Benz C-Class,2020,29189,28946,0,2,White,Beige
+BMW 5 Series,2023,14651,44998,0,1,White,Black
+Honda Accord,2021,26514,28994,1,1,Gray,Black
+Ford Edge,2014,90710,11295,0,2,Red,Unknown
+Mercedes-Benz C-Class,2020,25286,26991,0,1,Blue,Beige
+Mercedes-Benz GLA,2021,37490,28757,0,1,Black,Black
+INFINITI Q50,2019,51091,21333,0,1,White,Gray
+Audi A4,2018,50012,23222,1,2,Black,Black
+Nissan Kicks,2021,56206,16199,0,1,Gray,Black
+Alfa Romeo Giulia,2022,47,28670,0,1,White,Black
+Honda Civic,2022,22376,28067,0,1,Black,Black
+Toyota Corolla,2021,27730,20194,0,1,White,Black
+Subaru Outback,2021,24585,28998,0,1,Black,Beige
+Toyota C-HR,2021,26270,23333,0,1,Gray,Black
+BMW X3,2015,48155,19998,0,5,White,Unknown
+Acura RDX,2018,29848,24998,1,3,Black,Black
+Nissan Versa,2020,23906,16998,0,1,Gray,Black
+Toyota Camry,2021,35679,22007,0,1,Gray,Black
+Land Rover Range Rover Evoque,2020,29921,30989,0,2,Black,Black
+Honda Accord,2020,25894,22598,1,1,White,Beige
+Toyota Highlander,2022,214,39333,0,1,Blue,Black
+Hyundai Tucson,2018,93594,16998,0,1,Gray,Black
+Subaru Forester,2017,84165,16500,0,1,Red,Gray
+Mercedes-Benz C-Class,2019,16529,28998,1,1,Black,Black
+Subaru Forester,2021,52224,24099,0,1,Black,Black
+Dodge Challenger,2018,49734,22998,0,2,White,Black
+Mercedes-Benz E-Class,2021,13384,40745,0,1,White,White
+Land Rover Discovery,2017,55590,21995,1,2,Gray,Black
+Ford Edge,2013,98885,9500,0,1,White,Gray
+BMW X5,2022,21808,46998,0,1,Gray,Black
+Mercedes-Benz GLA,2019,34972,22142,0,2,Black,Black
+Jeep Wrangler,2019,67771,25988,0,2,White,Black
+Toyota RAV4,2022,44258,24788,0,1,Silver,Unknown
+Jaguar F-PACE,2020,42668,26700,0,1,Black,Black
+Toyota Camry,2012,96502,14998,2,4,Red,Gray
+Volkswagen Beetle,2013,87335,9990,0,1,White,Black
+Honda Pilot,2017,42051,29998,0,1,Silver,Black
+Chrysler Pacifica,2020,64659,25998,0,1,White,Black
+Toyota RAV4,2022,77425,24898,0,1,White,Black
+Toyota Yaris iA,2017,72367,10850,0,3,Blue,Black
+Land Rover Range Rover Velar,2018,33452,35998,1,2,White,Black
+Mazda CX-30,2022,9629,27998,0,2,Gray,Black
+Honda Accord,2016,95261,17998,2,2,Black,Black
+Mercedes-Benz C-Class,2021,30045,29888,0,1,Silver,Black
+Ford Transit Passenger Wagon,2019,47789,49995,0,1,White,Gray
+Ford Explorer,2018,47760,22333,0,2,White,Black
+Mercedes-Benz GLA,2021,14653,24999,0,3,Black,Black
+INFINITI Q60,2014,77173,17998,0,3,White,Gray
+Volkswagen Beetle,2013,96672,10927,2,3,Black,Black
+BMW 3 Series,2011,127089,7995,1,3,Silver,Black
+Toyota Tacoma,2021,21044,33998,0,1,Black,Gray
+Chevrolet Silverado 1500,2014,133384,16650,0,1,White,Unknown
+Toyota Highlander,2021,64785,29469,0,1,Gray,Black
+Dodge Challenger,2019,64587,21449,1,1,Gray,Black
+Toyota Corolla,2021,12170,20442,1,1,Silver,Black
+Toyota Camry,2015,101711,15998,1,2,Silver,Black
+Mercedes-Benz E-Class,2019,41075,26991,1,1,Black,Black
+Toyota Corolla,2021,24212,20394,0,1,White,Black
+Volvo XC90,2021,17269,48991,0,1,Black,Black
+Jeep Gladiator,2021,26311,38987,0,1,Gray,Black
+Mazda CX-5,2020,42700,23998,0,1,Red,Beige
+Toyota Corolla,2015,30778,14790,1,2,Black,Black
+BMW 3 Series,2017,72071,17998,0,2,Black,Black
+Land Rover Discovery,2020,62802,24000,0,1,Black,Unknown
+Mercedes-Benz C-Class,2023,10109,39776,0,1,Silver,Black
+Subaru Outback,2021,14618,28097,0,1,Black,Gray
+Toyota Corolla,2021,62665,17000,0,1,Black,Black
+Volkswagen Tiguan,2020,46797,20998,0,1,Red,Black
+Honda Accord,2018,34889,24400,0,2,Blue,Black
+Jaguar XF,2018,38894,22444,0,3,Gray,Beige
+BMW X5,2020,33059,37999,0,1,White,Black
+Mercedes-Benz GLE,2021,33257,39591,0,1,Silver,Beige
+Mercedes-Benz GLB,2023,3518,43139,0,1,White,Beige
+Kia Soul,2022,33047,16988,0,1,White,Black
+Chevrolet Silverado 1500,2018,50079,24777,0,4,White,Black
+Toyota Sienna,2020,10093,35666,1,1,Silver,Black
+Mercedes-Benz C-Class,2018,55367,24166,0,2,White,Black
+Chevrolet Malibu,2022,41386,19998,1,1,Silver,Black
+Audi Q7,2023,2738,53155,0,1,Black,Black
+Volkswagen Tiguan,2021,28914,18993,0,1,White,Black
+Ford Explorer,2022,28520,26800,0,1,White,Black
+Nissan Versa,2021,62103,15641,0,1,Blue,Gray
+Land Rover Range Rover,2011,109040,13995,0,3,Gray,Black
+Mercedes-Benz E-Class,2021,15900,36591,0,1,Red,Beige
+Ford Explorer,2020,44609,24595,1,2,Black,Black
+Volkswagen Jetta,2019,33822,15444,0,1,Black,Black
+Toyota Highlander,2021,16775,40222,0,1,Red,Black
+Toyota 4Runner,2021,62820,27600,0,1,Red,Black
+Subaru Forester,2021,12548,28699,0,1,White,Brown
+Ford Bronco,2022,5189,57444,0,1,Silver,Beige
+Mercedes-Benz CLA,2023,9431,40018,0,1,White,Black
+Toyota Tundra,2021,20874,41394,0,1,Green,Black
+Audi Q5,2023,4888,44672,0,1,Gray,Black
+BMW 3 Series,2023,3271,45222,0,1,Black,Black
+Mercedes-Benz GLC,2021,37321,31329,1,1,White,Black
+Subaru Crosstrek,2020,34869,24995,0,1,White,Black
+Nissan Rogue,2021,59839,19988,0,2,White,Black
+Toyota Corolla,2011,64526,11420,2,1,Gray,Gray
+Subaru Outback,2023,5609,35479,0,1,White,Gray
+Hyundai Sonata,2015,122881,10495,0,2,White,Black
+Mercedes-Benz GLB,2020,18786,29440,0,1,White,Beige
+Honda Civic,2020,8181,19995,0,1,White,Unknown
+Jeep Wrangler,2018,27646,26260,1,2,Red,Black
+Toyota Camry,2022,27681,20499,0,1,Silver,Black
+Mercedes-Benz E-Class,2022,5873,43887,0,1,White,Black
+Toyota RAV4,2022,31666,24988,0,1,Gray,Unknown
+Honda Passport,2022,10301,34649,0,1,White,Black
+BMW 3 Series,2007,97688,7995,1,2,Silver,Gray
+BMW 7 Series,2016,78768,21999,1,2,Gray,Brown
+BMW 3 Series,2020,25727,26998,1,1,Black,Black
+Subaru Outback,2022,31748,25499,0,1,White,Gray
+Volkswagen Tiguan,2020,30533,18529,0,1,Gray,Black
+Chevrolet Colorado,2021,30455,23333,1,1,Black,Black
+Toyota Camry,2022,29934,29998,0,1,Black,Black
+Mercedes-Benz E-Class,2022,9842,44774,0,1,White,Black
+Subaru Outback,2020,40394,26828,0,1,Black,Gray
+Porsche Macan,2020,39689,36998,1,1,Blue,Black
+Jeep Grand Cherokee,2015,82310,19998,0,1,Gray,Black
+Ram 1500,2021,107431,21999,1,1,Blue,Brown
+Audi Q3,2021,62112,21699,0,1,White,Black
+Cadillac XT6,2021,28000,30260,0,1,Black,Black
+Toyota Camry,2021,64905,21681,0,1,Gray,Unknown
+Mazda Mazda3,2021,40810,23998,0,1,Gray,Red
+Ford Escape,2020,59773,15994,2,1,Black,Black
+Lexus UX,2021,30621,30333,0,1,Silver,Black
+Toyota Corolla,2021,41229,18500,0,1,White,Black
+Chevrolet Equinox,2023,3306,25000,0,1,Blue,Black
+Mercedes-Benz GLB,2021,18407,30990,0,1,Blue,Beige
+BMW 3 Series,2020,83353,19999,0,2,Red,Beige
+Acura MDX,2017,100531,20998,0,2,White,Brown
+Toyota Sienna,2016,91789,19998,2,3,Gray,Gray
+Toyota Venza,2021,14150,32000,0,1,Blue,Black
+Mercedes-Benz C-Class,2018,59696,21998,2,2,White,Black
+Land Rover Defender,2021,29490,71222,0,1,Silver,Brown
+BMW 5 Series,2023,9109,45498,0,1,Gray,Black
+Subaru Forester,2017,99241,14948,0,1,Black,Black
+Honda Civic,2020,36732,21721,0,2,Gray,Unknown
+Land Rover Range Rover Sport,2009,112045,9995,5,5,Black,Black
+Hyundai Sonata,2016,37285,15987,1,1,Gray,Gray
+Chevrolet Spark,2022,36292,13650,0,1,Gray,Black
+Mercedes-Benz C-Class,2015,78923,16999,0,4,Black,Black
+Subaru Crosstrek,2021,7485,26300,0,1,Gray,Black
+Subaru Outback,2020,69006,24323,0,2,White,Brown
+Ford F-150,2019,112327,19998,0,1,White,Gray
+Jaguar F-PACE,2019,47051,29013,0,1,Black,Unknown
+Nissan Versa,2016,69957,9988,0,2,White,Black
+Ford Mustang,2016,96178,23495,3,4,White,Black
+Lexus UX,2020,18708,26991,0,1,Silver,Black
+Ford Fusion,2020,43662,19888,1,1,Silver,Unknown
+Ford Fusion,2018,86182,13995,1,2,White,Black
+Nissan Rogue,2023,12912,23988,0,1,White,Black
+Kia Sportage,2021,19216,20995,0,1,White,Black
+Honda Civic,2020,20202,18995,0,1,White,Beige
+BMW X5,2021,40745,45999,0,2,White,Black
+Mercedes-Benz E-Class,2020,23564,38495,0,1,Black,Black
+Toyota RAV4,2021,30956,27555,0,1,Silver,Black
+Subaru Ascent,2022,17828,34888,0,1,Gray,Gray
+Mercedes-Benz E-Class,2020,28678,36595,0,1,White,Black
+Mercedes-Benz GLE,2021,27856,41997,0,1,Black,Black
+Audi RS 6 Avant,2023,8483,124995,0,1,Gray,Black
+Chevrolet Malibu,2021,33251,19250,0,1,Silver,Black
+Mercedes-Benz C-Class,2021,28708,31154,0,2,Gray,Black
+Mercedes-Benz GLC,2022,5029,38235,0,1,Black,Beige
+Kia Forte,2017,53043,12991,1,2,White,Black
+Mercedes-Benz C-Class,2016,81289,16999,4,3,Black,Black
+Mercedes-Benz CLA,2023,6742,37776,0,2,Gray,Black
+Toyota Corolla,2021,49191,18994,0,1,Unknown,Unknown
+BMW X3,2021,20614,31999,0,1,White,Beige
+Toyota Camry,2014,89428,15998,1,3,Gray,Black
+Subaru Forester,2021,32390,23749,1,1,Blue,Gray
+Hyundai Tucson,2017,114309,13998,1,1,Black,Black
+Ford Transit Cargo Van,2021,57953,38995,0,1,White,Gray
+Volvo XC90,2021,29141,38993,0,1,Silver,Black
+Mercedes-Benz C-Class,2019,49842,25163,0,2,Black,Black
+Jeep Gladiator,2020,28908,30991,0,1,Gray,Black
+Mercedes-Benz C-Class,2021,15387,33009,0,1,Black,Black
+Subaru Forester,2021,8879,26065,0,1,Green,Gray
+BMW X1,2021,37595,23997,0,1,Black,Black
+Mercedes-Benz C-Class,2023,7663,39777,0,1,Gray,Black
+Ford F-150,2020,73920,27998,0,1,Gray,Gray
+Mercedes-Benz GLE,2021,23303,42991,0,1,Silver,Beige
+Subaru Outback,2023,5688,34600,0,1,Silver,Gray
+Subaru Forester,2020,30962,24998,0,1,Black,Gray
+Hyundai Elantra,2012,135320,6500,0,3,Red,Black
+Mercedes-Benz GLA,2020,72921,19495,1,1,Black,Black
+Buick Enclave,2023,10581,47000,0,1,White,Black
+Toyota Prius,2022,28082,22500,1,1,Black,Black
+Toyota Tacoma,2019,27160,33998,2,1,Gray,Black
+Subaru Outback,2020,49318,23998,2,1,Silver,Gray
+Volkswagen Taos,2022,35570,23998,1,1,White,Black
+Kia Optima,2020,41053,22998,0,2,White,Black
+Toyota RAV4,2021,62673,23993,0,1,Black,Gray
+BMW X3,2020,61144,22100,0,1,Black,Black
+Lexus UX,2022,12642,29333,0,1,Red,Black
+Audi A3,2023,615,34995,0,1,Black,Black
+BMW X3,2021,25621,29498,0,1,Black,Black
+Toyota Corolla,2021,63421,18693,0,1,Silver,Black
+Toyota Prius,2012,187405,10995,0,3,White,Unknown
+Mercedes-Benz C-Class,2015,49125,16995,0,2,Blue,Unknown
+BMW 3 Series,2021,7800,30999,0,1,Gray,Beige
+BMW 3 Series,2015,117179,7695,0,4,Black,Black
+Nissan Maxima,2018,43047,21998,0,2,Red,Beige
+Mercedes-Benz GLB,2023,5723,41151,0,1,Black,Black
+BMW 5 Series,2023,6776,69999,0,1,Black,Black
+Audi Q5,2022,10969,36993,0,1,Silver,Gray
+Toyota RAV4,2021,44447,25795,0,1,Gray,Black
+Dodge Charger,2019,129303,13999,0,2,White,Black
+Mercedes-Benz C-Class,2020,19543,26889,0,1,Silver,Beige
+Mercedes-Benz GLE,2017,52826,23499,1,3,Black,Black
+BMW 4 Series,2021,48855,40497,0,1,White,Red
+Mazda Mazda6,2016,86686,16998,2,2,White,Black
+Subaru Crosstrek,2021,41707,24991,0,1,Silver,Black
+Mercedes-Benz GLC,2021,28374,29933,0,1,White,Black
+Subaru Forester,2017,62567,17889,1,2,Gray,Gray
+Nissan Frontier,2022,12232,26988,0,1,White,Black
+Toyota Prius,2013,131525,10895,1,2,White,Gray
+Ford Econoline Cargo Van,2011,152825,9998,0,2,White,Unknown
+Jeep Wrangler,2022,16700,38444,0,2,Black,Black
+Honda Civic,2012,124873,8995,1,4,Gray,Gray
+Jaguar E-PACE,2020,22112,26666,0,1,Gray,Unknown
+BMW X5,2020,27051,37498,0,2,Gray,Black
+Audi A5,2023,6091,36462,0,1,Black,Black
+Honda Accord,2020,35882,25498,1,1,Gray,Black
+Subaru Outback,2023,8474,34600,0,1,White,Gray
+Volvo XC90,2021,28560,38994,0,1,Gray,Black
+BMW X5,2022,17842,43988,0,1,Black,Black
+Jeep Wrangler,2022,17313,39566,0,1,Black,Black
+BMW X5,2013,103297,11995,0,1,Silver,Black
+Honda Civic,2020,46571,17495,0,2,Red,Black
+FIAT 124 Spider,2017,48992,16200,0,2,Gray,Black
+Dodge Charger,2018,105394,18998,0,2,White,Black
+Acura RDX,2020,41508,24689,0,1,Black,Black
+Kia K5,2022,49207,18998,0,1,Red,Black
+Audi A3,2023,2235,33995,0,1,Black,Black
+Mercedes-Benz E-Class,2020,38110,32595,0,3,Silver,Black
+Toyota Corolla,2021,53960,21350,0,1,White,Unknown
+Subaru Impreza,2015,80234,14998,0,2,Blue,Black
+Toyota Corolla Cross,2022,7033,28333,0,1,White,Black
+Honda Accord,2022,31454,24987,0,1,White,Black
+Lincoln Nautilus,2021,7425,36995,0,1,Tan,Beige
+Ford F-150,2023,198,59988,0,1,Gray,Black
+Honda Accord,2021,68744,24493,0,1,White,Black
+Ford F-150,2022,7383,41563,0,1,Gray,Black
+Land Rover Range Rover Evoque,2014,81607,14995,0,2,Black,Black
+Volkswagen Atlas,2019,28165,27998,0,1,Silver,Black
+Land Rover Range Rover,2017,51250,40000,0,1,Gray,Black
+Chevrolet Malibu,2022,43257,17400,0,1,Silver,Black
+Toyota RAV4,2021,61589,26685,0,1,Black,Unknown
+Chevrolet Corvette,2014,42423,41998,0,1,Black,Black
+Acura MDX,2017,113292,19998,0,1,White,Black
+Toyota RAV4,2021,62935,22998,1,1,Black,Black
+Audi A3,2023,2110,32995,0,1,White,Beige
+BMW 3 Series,2016,75635,16998,0,1,White,Black
+Honda Civic,2017,26208,23998,0,1,Gray,Black
+Hyundai Sonata,2019,38199,18998,1,1,Black,Black
+Volkswagen Tiguan,2015,71416,15998,0,3,Tan,Black
+Honda Civic,2022,28188,26998,0,1,White,Black
+Chevrolet Equinox,2020,47370,19998,0,3,Black,Gray
+Honda Fit,2015,84457,14998,1,2,Red,Black
+Toyota 4Runner,2019,45870,29998,1,1,Black,Black
+Hyundai Elantra,2020,41417,18998,0,1,White,Black
+Honda Civic,2017,23045,22998,2,1,Black,Black
+BMW M6,2014,43936,36998,0,2,Black,Black
+Jeep Gladiator,2022,32956,35998,0,1,Gray,Black
+Mercedes-Benz E-Class,2006,83321,7695,0,0,Gray,Unknown
+Mercedes-Benz C-Class,2023,9779,40777,0,1,Gray,Black
+Kia Forte,2021,26203,16995,0,1,Black,Black
+Honda Civic,2012,126639,8995,0,2,Black,Gray
+Honda Odyssey,2020,22045,32781,0,1,Silver,Gray
+Dodge Challenger,2012,112067,16750,0,2,Black,Gray
+Chevrolet Tahoe,2023,3924,64150,0,1,Blue,Black
+Mercedes-Benz GLC,2021,11858,31933,0,1,White,Beige
+BMW M5,2007,119568,16400,1,5,Silver,Gray
+Honda Pilot,2021,30283,31187,1,1,Black,Black
+Toyota Tacoma,2022,18137,33520,0,1,White,Gray
+Audi Q5,2020,24359,30855,1,1,Gray,Black
+Mercedes-Benz C-Class,2019,46446,22000,0,2,Blue,Beige
+Audi Q3,2020,24398,25725,0,1,Blue,Brown
+BMW 3 Series,2013,56891,17998,0,1,Gold,Black
+Mercedes-Benz E-Class,2020,22338,43014,1,1,Gray,Black
+Kia Sedona,2016,122368,13998,0,1,Silver,Gray
+Toyota Corolla,2021,66531,18694,0,1,Red,Black
+Subaru Crosstrek,2021,34129,24499,0,1,Black,Black
+Mercedes-Benz GLC,2019,33933,26888,0,2,Black,Black
+Mercedes-Benz GLC,2020,37045,26988,0,1,Black,Unknown
+Mazda CX-5,2021,62203,21888,0,1,Silver,Black
+Jeep Wrangler,2012,42222,21677,1,1,Black,Black
+Audi A5,2023,2077,37998,0,1,Black,Black
+Toyota Camry,2015,84982,16998,0,1,White,Black
+Land Rover Range Rover Evoque,2012,95743,13995,0,2,White,White
+Toyota RAV4,2017,96286,16888,0,2,Black,Black
+Ford F-150,2021,62048,40678,1,1,Silver,Black
+Chevrolet Equinox,2018,46513,14987,3,1,Silver,Black
+Toyota Tacoma,2020,28772,34998,0,1,Black,Gray
+Chevrolet Malibu,2022,36428,18998,0,1,White,Gray
+Toyota Highlander,2020,18999,33998,1,1,Gray,Gray
+Toyota Camry,2019,37498,23998,2,1,White,Black
+Hyundai Santa Fe,2020,34444,25998,0,1,Blue,Black
+Volkswagen Atlas,2021,57902,29998,1,1,Black,Black
+Dodge Grand Caravan,2019,54821,20998,0,2,White,Black
+Lexus NX,2021,65710,23991,0,1,Silver,Black
+Chevrolet Corvette,2023,2088,93000,0,1,Silver,Black
+Toyota Tacoma,2021,22721,31000,2,1,Gray,Gray
+Land Rover Range Rover,2007,108459,9995,0,4,White,White
+Toyota Corolla,2021,63321,18794,1,1,White,Gray
+Toyota Corolla,2022,17868,20299,0,1,Black,Black
+Mercedes-Benz GLA,2022,6097,32666,0,1,White,Beige
+Toyota Corolla,2022,33868,17593,0,1,White,Black
+Ford Escape,2022,36066,20799,0,1,Gray,Gray
+Audi Q5,2022,11651,33497,0,2,Gray,Gray
+Kia Forte,2020,96157,10995,0,3,Gray,Black
+BMW X5,2012,101835,10400,0,2,Silver,Black
+Chevrolet Camaro,2022,9952,30195,0,1,Unknown,Unknown
+Toyota Camry,2020,25298,29999,0,1,White,Red
+Kia Optima,2019,55465,17998,2,4,Silver,Black
+INFINITI Q50,2020,27926,28400,0,1,Black,Gray
+Ford Escape,2020,36158,16988,0,1,Gray,Gray
+Mercedes-Benz GLC,2023,4202,50838,0,1,Blue,Black
+Subaru Outback,2024,5699,34800,0,1,Silver,Gray
+Toyota Tacoma,2013,111951,22250,2,1,Black,Gray
+Volvo XC90,2020,55536,43163,0,1,White,Beige
+Nissan Titan,2017,50920,30998,0,1,Black,Black
+Toyota RAV4,2019,16985,28599,0,1,Silver,Gray
+Mercedes-Benz A-Class,2020,65629,20555,1,1,White,Black
+Toyota Prius,2015,94528,16998,1,1,Gray,Gray
+Chevrolet Volt,2017,110560,10986,1,1,White,Black
+Mercedes-Benz S-Class,2023,4813,104784,0,1,Black,Black
+Toyota Highlander,2021,57404,32555,0,1,Blue,Red
+Subaru Forester,2021,43610,25099,0,1,Blue,Gray
+Ford F-150,2021,44974,35998,0,1,White,Gray
+Ford F-150,2019,44978,30795,0,1,Black,Black
+Nissan Versa,2022,54626,13950,0,1,Black,Black
+Subaru Forester,2021,17357,28299,0,1,Black,Brown
+Toyota RAV4,2021,34135,25727,0,1,Black,Gray
+Subaru Outback,2022,25164,29474,0,1,Gray,Gray
+Chrysler 200,2015,110746,9495,0,3,Black,Black
+Land Rover Range Rover Sport,2014,74390,25995,2,3,Silver,Black
+Ford Explorer,2021,42808,36500,0,1,White,Black
+Volkswagen Jetta,2016,121571,7885,1,3,Gray,Black
+Subaru Ascent,2022,12435,34449,0,1,Silver,Gray
+Chevrolet Tahoe,2016,95699,23887,0,2,Silver,Black
+Jeep Wrangler,2014,76436,21499,2,1,White,Black
+Chevrolet Corvette,2021,6537,82150,0,1,Yellow,Black
+Mercedes-Benz GLA,2021,26991,29649,1,1,White,Black
+Audi Q3,2018,21714,21499,0,1,White,Black
+Mercedes-Benz CLA,2014,58783,16999,0,1,White,Black
+Mercedes-Benz C-Class,2020,37120,28222,0,2,Silver,Black
+Toyota Corolla,2020,29126,19497,1,2,White,Black
+Chevrolet Silverado 1500,2021,104561,31998,1,3,White,Black
+Audi A3,2023,1193,32995,0,1,Black,Black
+Kia Soul,2015,74267,8476,2,3,Gray,Black
+BMW X1,2015,115152,11495,1,2,Black,Brown
+Lexus RX,2018,50215,27986,1,1,White,Gray
+Ford Explorer,2021,9876,31486,0,1,White,Gray
+Kia K5,2022,41939,22500,0,1,White,Black
+Kia K5,2021,56108,17988,0,1,Black,Black
+Jeep Compass,2021,42815,19759,0,1,White,Black
+Subaru Impreza,2020,28266,21620,0,1,White,Black
+Jeep Wrangler,2018,50118,24515,0,1,Gray,Black
+Mercedes-Benz A-Class,2019,27297,22588,1,1,Silver,Black
+Dodge Challenger,2015,26780,46988,1,2,Black,Black
+Jeep Grand Cherokee,2020,43868,25000,0,1,White,Black
+Lexus ES,2021,12283,34000,0,1,Green,Black
+Mercedes-Benz GLC,2021,25690,32904,0,1,White,Beige
+Kia Forte,2021,15084,17995,0,1,Black,Black
+Ford Explorer,2021,17691,31998,0,1,Black,Black
+Subaru Ascent,2021,23805,30000,0,1,White,Beige
+Subaru Outback,2024,6202,34800,0,1,White,Beige
+Aston Martin DB9,2008,20938,40900,0,4,Black,Black
+Hyundai Santa Fe,2023,32148,21800,0,1,White,Black
+Ford Econoline Cargo Van,2013,307292,8995,2,1,White,Gray
+Jeep Cherokee,2018,60305,15888,1,2,Black,Black
+Toyota Camry,2020,39362,21222,0,1,Black,Black
+Volkswagen Jetta,2017,114015,11495,2,2,Black,Black
+Mercedes-Benz A-Class,2020,28125,25631,0,2,Black,Black
+Mercedes-Benz A-Class,2019,34366,21987,1,3,Black,Black
+Mercedes-Benz C-Class,2017,56536,18995,0,2,White,Beige
+BMW X3,2022,6316,36499,0,1,Black,Brown
+Mercedes-Benz GLB,2023,7439,39880,0,2,White,Beige
+Cadillac Escalade,2023,13889,89991,0,1,Gray,Black
+BMW X3,2021,59945,25998,0,1,White,Black
+Audi R8,2012,33944,88000,0,4,Black,Black
+Toyota Tacoma,2017,62689,29333,2,1,Silver,Gray
+Toyota Tacoma,2019,117204,19999,1,1,White,Gray
+Mercedes-Benz C-Class,2023,7499,39777,0,1,Black,Black
+Chevrolet Malibu,2022,16331,19991,0,1,Gray,Black
+Subaru Legacy,2023,5293,23999,0,1,White,Gray
+Mercedes-Benz M-Class,2012,130708,8991,0,2,White,Gray
+Honda Civic,2018,72905,14500,0,3,White,Beige
+Hyundai Sonata,2013,85653,8995,0,2,Gray,Gray
+Chrysler 300,2021,61474,22621,0,1,White,Black
+Land Rover Range Rover,2014,61910,26999,0,3,White,Black
+Toyota Tundra,2023,6478,61333,0,1,Blue,Black
+Volkswagen Atlas,2019,36108,23987,0,1,Blue,Black
+Audi Q5,2020,15503,29999,0,1,Black,Black
+Chevrolet Trailblazer,2021,40743,19888,0,1,Black,Black
+Ford Fusion,2020,42121,16308,0,1,Black,Black
+Kia Soul,2018,52817,11995,0,3,Gray,Black
+Kia Forte,2023,12459,19991,0,1,Gray,Black
+Mercedes-Benz GLA,2021,32130,29419,0,1,Gray,Black
+Acura MDX,2020,17913,31498,0,1,Black,Black
+Honda Civic,2015,116519,9499,1,4,Silver,Gray
+Mercedes-Benz SLK,2012,66614,17999,0,2,Black,Black
+Chevrolet Malibu,2017,96583,11999,1,2,White,Black
+Dodge Grand Caravan,2017,124407,8995,0,2,Black,Black
+Mercedes-Benz SL,2000,86513,8995,1,3,White,Beige
+Cadillac CTS,2004,175440,4966,3,4,White,Beige
+Dodge Journey,2018,73637,10999,0,1,Black,Black
+Honda CR-V,2019,27490,24063,0,1,Gray,Black
+Honda CR-V,2021,51693,24300,0,1,Black,Gray
+Subaru Outback,2023,5011,35300,0,1,White,Gray
+Toyota Camry,2020,40875,21488,0,2,Black,Unknown
+Mercedes-Benz C-Class,2021,21123,28998,1,1,Gray,Black
+Volkswagen Jetta,2013,79328,13599,1,4,White,Unknown
+Jeep Grand Cherokee,2018,63600,25998,0,2,Black,Black
+Toyota Corolla,2021,64006,18985,0,1,White,Gray
+Toyota RAV4,2018,54264,19555,0,0,White,Black
+Hyundai Sonata,2016,89315,13998,1,2,Silver,Gray
+Honda CR-V,2018,54900,22998,0,1,Gray,Black
+Toyota RAV4,2013,61283,19998,2,3,Blue,Gray
+Honda CR-V,2020,35038,27906,0,1,Gray,Black
+Cadillac Escalade,2015,106871,26599,1,4,Black,Brown
+Toyota Corolla,2015,124202,9991,1,3,White,Gray
+BMW X5,2021,25347,42999,0,1,Blue,Black
+Dodge Charger,2013,119000,8988,1,5,Black,Black
+Ford Bronco Sport,2021,57497,25998,1,1,Red,Black
+Toyota RAV4,2021,41484,36998,0,1,Red,Brown
+Toyota Corolla,2022,18666,20943,0,1,Black,Black
+Chevrolet Tahoe,2011,105208,15995,4,3,Black,Black
+Toyota RAV4,2021,21406,26675,0,1,White,Black
+Chevrolet Silverado 1500,2021,59728,35995,0,1,Gray,Black
+Kia Soul,2021,94094,13495,0,1,Silver,Black
+Toyota Camry,2020,93239,18218,1,1,Silver,Black
+Toyota Prius Prime,2021,32835,26498,0,1,Gray,Black
+Ford Transit Passenger Wagon,2019,73340,36997,0,2,White,Black
+Ford Expedition,2020,88416,33998,0,3,Silver,Black
+Chevrolet Silverado 1500,2022,17657,25998,0,1,White,Black
+Toyota RAV4,2022,30244,24499,0,1,White,Black
+Toyota Corolla,2019,103363,12999,0,1,Red,Black
+Honda Civic,2018,40171,17495,1,1,Gray,Gray
+Subaru Forester,2021,24736,22679,0,1,Silver,Black
+Mercedes-Benz GLE,2020,80559,31888,0,1,Silver,Black
+Land Rover Range Rover Sport,2014,94800,21995,2,2,Black,Unknown
+Toyota Corolla,2018,116630,12999,1,2,White,Black
+Audi A3,2018,78782,15898,1,1,Gray,Black
+Honda HR-V,2021,18696,23598,0,1,Silver,Gray
+Toyota Corolla,2021,69530,17993,0,1,Silver,Black
+Mercedes-Benz Metris Cargo Van,2020,45405,26995,1,2,Blue,Black
+BMW X5,2021,22220,42997,0,1,Black,Black
+Cadillac XT5,2019,45232,20094,0,1,White,Beige
+Toyota Camry,2020,23599,20555,0,1,Gray,Black
+Subaru Crosstrek,2021,33559,25988,1,1,Gray,Gray
+Audi Q3,2020,25933,29998,0,1,Black,Gray
+Nissan Versa,2021,64534,15681,0,1,Silver,Gray
+Kia K5,2022,40330,18000,0,1,Silver,Black
+Honda HR-V,2022,11770,22222,0,1,Silver,Gray
+Toyota Tacoma,2021,38015,31400,1,2,White,Gray
+MINI Clubman,2023,2081,31995,0,1,White,Black
+Audi Q5,2020,22534,31888,0,1,Gray,Black
+BMW 5 Series,2017,60340,23998,0,1,Gray,Unknown
+Ford Mustang,2017,90843,18998,0,3,Black,Black
+Audi A7,2016,42396,28998,0,3,White,Black
+Audi A3,2023,3573,32995,0,1,Black,Black
+Toyota Prius,2006,193000,5991,2,2,Blue,Beige
+Acura ILX,2020,29094,20998,1,1,Gray,Black
+Subaru Forester,2015,13366,18100,0,1,White,Gray
+Kia K5,2021,37982,22000,0,1,White,Black
+Honda CR-Z,2015,75078,16998,0,4,Blue,Black
+BMW X7,2022,27091,58533,0,1,Black,Black
+Honda Odyssey,2014,77259,21998,0,1,Gray,Gray
+Toyota Prius,2012,103487,10999,0,2,Silver,Gray
+Kia Forte,2017,52456,12495,0,2,Black,Black
+Porsche Macan,2018,38205,32295,0,4,Black,Black
+BMW 4 Series,2021,17815,43496,0,1,Blue,Black
+Mercedes-Benz C-Class,2021,30521,30560,0,1,Silver,Gray
+Chevrolet Tahoe,2017,39702,34998,0,1,White,Black
+Nissan Altima,2021,61705,17888,0,1,Black,Black
+BMW X3,2021,10245,43999,0,1,White,Black
+BMW X5,2020,43907,33994,0,1,Gray,Brown
+Honda Civic,2017,78540,19998,0,3,White,Black
+Porsche 911,2002,58556,26996,0,3,Silver,Black
+Chevrolet Malibu,2020,46172,16998,0,1,Black,Black
+Ford Ranger,2019,77267,19876,0,1,Silver,Black
+Honda Civic,2013,37843,17998,0,1,White,Unknown
+GMC Yukon,2016,99882,21999,0,1,Silver,Black
+Mercedes-Benz E-Class,2015,94434,17495,0,2,Silver,Black
+Volkswagen Tiguan,2021,41030,18999,0,1,Gray,Black
+Mercedes-Benz GLC,2021,25030,29933,1,1,Gray,Black
+Ford Escape,2021,13758,21995,0,1,Gray,Gray
+Toyota Corolla Hatchback,2022,12909,22879,0,1,Black,Black
+Audi Q8,2023,4320,68796,0,1,Black,Black
+Chevrolet Malibu,2022,32265,19998,0,1,Silver,Black
+BMW 3 Series,2020,61362,22200,0,1,Black,Beige
+Jeep Grand Cherokee WK,2021,61058,24998,1,1,White,Black
+Audi A3,2023,1008,32995,0,1,Black,Black
+BMW 3 Series,2011,110377,6998,1,2,White,Beige
+Subaru Crosstrek,2020,43420,24499,1,1,Black,Black
+Kia Forte,2021,27187,19995,0,1,White,Black
+Jeep Grand Cherokee,2015,94863,20998,0,2,White,Black
+Ford F-150,2020,63997,31996,0,1,Black,Black
+BMW X5,2012,88752,14995,0,2,White,Black
+Kia K5,2021,33705,22300,0,1,Black,Black
+Honda Civic,2019,64566,17084,1,2,Black,Black
+BMW 5 Series,2014,122649,11995,1,3,Black,Black
+Mercedes-Benz GLA,2021,35810,29701,0,1,White,Black
+Audi Q7,2023,10322,58957,0,1,White,Black
+Audi A8,2013,51583,17499,1,2,White,Black
+Toyota Corolla,2021,29919,20995,0,1,Black,Black
+Subaru Crosstrek,2021,34409,25100,0,1,White,Black
+Honda Accord,2016,96250,18998,1,1,Black,Black
+Chevrolet Silverado 1500,2013,70971,24998,0,4,Black,Black
+Honda Accord,2017,38252,22998,0,2,Black,Black
+Mercedes-Benz CLS,2014,21037,30998,0,3,Blue,Unknown
+Honda Odyssey,2015,125578,16998,0,2,Gray,Gray
+Audi A4,2015,53259,17998,0,3,Blue,Black
+Ford Edge,2022,43221,26995,0,1,Black,Black
+BMW X3,2021,20466,30763,0,1,Black,Black
+Dodge Charger,2020,60196,19670,0,1,White,Black
+BMW X3,2021,21749,30999,0,1,White,Beige
+Mercedes-Benz C-Class,2023,4741,44764,0,1,White,Beige
+Ford Escape,2016,111113,9995,0,2,Gray,Gray
+Mercedes-Benz GLS,2020,69631,44992,0,1,White,Black
+Kia Optima,2019,20602,19999,0,1,White,Black
+BMW 3 Series,2016,101891,11995,0,2,Black,Beige
+Ford F-150,2021,37193,34998,1,2,Black,Gray
+Toyota Camry,2016,117456,12995,0,1,Silver,Unknown
+Toyota Corolla,2021,37728,20650,0,1,Black,Black
+Ford Explorer,2021,20357,31998,0,1,Silver,Unknown
+BMW X3,2021,9620,43988,0,1,White,Black
+Land Rover Range Rover Sport,2020,48726,44603,0,2,Black,Unknown
+Toyota Camry,2016,106742,13778,0,2,Black,Black
+Kia Optima,2013,106382,8995,2,2,White,Beige
+Ford Transit Cargo Van,2020,128682,21995,1,1,White,Gray
+Hyundai Accent,2013,106238,10998,1,3,Brown,Beige
+Mercedes-Benz C-Class,2017,39640,18995,2,2,Black,Beige
+Kia Soul,2021,62355,14955,0,1,Gray,Black
+Toyota Corolla,2021,21135,20998,0,1,Gray,Gray
+Mercedes-Benz GLE,2021,33266,63814,0,1,White,Black
+Subaru Crosstrek,2024,1301,26741,0,1,White,Black
+Toyota Camry,2020,45702,21986,0,1,Black,Black
+Kia Forte,2020,60231,13900,0,2,Black,Black
+Land Rover Range Rover Sport,2017,82088,26995,1,2,Black,Unknown
+Toyota RAV4,2021,92984,29200,0,1,Gray,Black
+Toyota Corolla,2017,78733,13991,1,1,White,Black
+Kia Forte,2021,22450,17998,2,1,White,Black
+Subaru BRZ,2022,21000,28998,0,2,Red,Black
+Subaru Crosstrek,2022,39427,23300,0,1,White,Gray
+Subaru WRX,2016,43959,21998,0,1,Blue,Black
+Subaru Crosstrek,2018,71542,21998,0,3,Blue,Gray
+Volkswagen Jetta,2019,32759,16765,1,2,Gray,Black
+Chevrolet Malibu,2017,79894,13990,1,2,Gray,Gray
+Honda Accord,2019,40673,17991,1,1,Gray,Gray
+BMW X5,2019,19417,43998,0,1,White,Black
+Maserati Levante,2019,22529,32000,2,1,Black,Black
+Lexus GX,2022,18377,47996,0,1,Blue,Gray
+Honda CR-V,2023,1007,33498,0,1,Unknown,Black
+Toyota Highlander,2021,40088,39486,0,1,Gray,Gray
+Mercedes-Benz C-Class,2023,6315,44868,0,1,White,Black
+Nissan Armada,2021,63487,25684,0,1,Silver,Black
+Honda Civic,2023,9562,25639,0,1,Red,Black
+Toyota Tacoma,2022,8097,39991,0,1,Silver,Black
+Nissan Sentra,2021,23023,18278,0,1,Red,Beige
+Ford Fusion,2018,62354,10800,1,2,White,Unknown
+Lexus NX,2020,39255,30998,0,1,White,Red
+GMC Sierra 1500,2017,79434,26987,0,1,Gray,Black
+Chevrolet Silverado 2500,2004,47395,19500,0,2,Black,Black
+Ford Focus,2016,83009,17998,1,2,Gray,Black
+Subaru Outback,2023,7345,34900,0,1,White,Gray
+Toyota RAV4 Prime,2021,37418,37991,0,1,Silver,Black
+Alfa Romeo Stelvio,2022,25,34751,0,1,Black,Black
+BMW X3,2021,24706,28999,0,1,Blue,Black
+Honda CR-V,2012,91988,12495,0,1,Black,Gray
+Jeep Wrangler,2018,33724,31998,0,3,White,Black
+Subaru Ascent,2022,25721,34984,0,1,Gray,Gray
+Toyota Camry,2023,19660,23935,0,1,Gray,Black
+Toyota Highlander,2021,34955,33994,0,1,White,Gray
+Ford Explorer,2016,72635,18998,0,1,Silver,Beige
+BMW 6 Series,2016,83633,22750,1,2,Black,Black
+Subaru Outback,2023,5618,37500,0,1,White,Gray
+Toyota Corolla,2021,74064,17994,1,1,Red,Black
+Nissan Rogue,2021,10868,23991,0,1,Red,Black
+Volvo V60,2020,45016,32598,0,1,Gray,Black
+Mercedes-Benz GLA,2021,21352,29995,0,3,Black,Unknown
+Audi Q7,2023,8581,51623,0,1,Black,Black
+Mercedes-Benz A-Class,2021,7228,29046,0,1,Black,Black
+Cadillac CTS,2016,97626,14900,1,3,White,Beige
+Honda Accord,2021,43043,25981,0,1,Gray,Black
+Mercedes-Benz GLE,2017,60253,38595,0,1,Unknown,Unknown
+Mercedes-Benz GL,2011,88997,10988,0,3,Black,Black
+Mercedes-Benz CLA,2019,54727,19999,0,2,Black,Black
+Ford Transit Cargo Van,2021,26852,32998,0,1,White,Black
+Mercedes-Benz CLA,2023,7023,37777,0,1,White,Black
+Ford F-150,2021,49171,29998,0,1,White,Gray
+Audi A3,2020,35165,24998,1,1,White,Black
+Ford Fusion,2020,41553,19995,0,1,Black,Black
+Lexus LS,2014,173788,17995,0,1,Black,Black
+BMW 5 Series,2016,73181,14999,0,3,Silver,Beige
+Kia Forte,2022,31031,18500,0,1,White,Black
+Subaru Forester,2022,4681,28948,0,1,Red,Gray
+Toyota 4Runner,2021,14683,44998,0,1,Black,Brown
+Toyota Camry,2017,36663,19998,3,1,Silver,Unknown
+Toyota Tacoma,2023,21953,36998,0,1,Silver,Black
+BMW X5,2020,50716,35998,1,1,White,Black
+Subaru Outback,2020,25038,28998,0,1,Gray,Gray
+Chevrolet Trailblazer,2022,47162,23998,0,2,White,Black
+Hyundai Sonata,2015,96880,13998,1,1,Silver,Gray
+Nissan Altima,2019,88155,14450,0,3,White,Black
+Toyota Corolla,2021,7500,21222,0,1,Red,Black
+Honda Odyssey,2015,124418,18998,0,2,Gray,Gray
+Toyota Camry,2020,43228,20483,0,1,Silver,Black
+Audi A6,2023,5801,47998,0,1,Gray,Black
+Chevrolet Silverado 1500,2016,93925,26988,0,2,White,Black
+Ford Explorer Sport Trac,2009,180254,7995,0,7,Black,Black
+Lexus IS,2017,51201,25998,0,4,Gray,Black
+BMW X3,2021,26725,28888,0,1,Black,Black
+Mercedes-Benz C-Class,2015,81970,14495,2,3,White,Unknown
+Honda Civic,2019,39515,19770,1,1,Gray,Gray
+Honda Odyssey,2019,49419,26581,0,3,Silver,Brown
+Honda Accord,2022,29649,24799,0,1,Silver,Black
+Nissan Altima,2014,129009,8895,1,2,White,Black
+Subaru Outback,2021,14417,27998,0,1,Red,Gray
+Honda Odyssey,2014,112998,15998,1,2,Gray,Gray
+Genesis G80,2022,19964,37449,0,1,Silver,Black
+Ford Focus,2014,105879,7798,1,3,Red,White
+Chevrolet Suburban,2015,225260,12999,3,1,Black,Black
+Toyota Corolla,2011,93687,8500,1,1,Black,Gray
+Volkswagen Tiguan,2019,47154,19998,0,2,White,Gray
+Kia Optima,2018,59244,12900,1,2,White,Beige
+Lexus RX,2023,25442,47991,0,1,Black,Beige
+Subaru Forester,2021,10044,26986,0,1,Silver,Black
+Honda Accord,2021,20810,27998,0,2,Silver,Black
+Hyundai Sonata,2012,109989,11998,0,3,Black,Gray
+Jeep Wrangler,2015,105409,18999,0,3,White,Black
+Kia Optima,2013,112562,8495,0,3,Black,Beige
+Chevrolet Camaro,2014,103796,9499,0,1,Black,Black
+Mercedes-Benz C-Class,2023,5761,54991,0,1,Blue,Black
+Ford EcoSport,2018,49941,13977,0,2,Red,Black
+Honda Accord,2020,36197,22991,1,2,Black,Black
+Ram 1500,2020,42603,30998,0,1,Gray,Black
+Chevrolet Trailblazer,2021,12301,18200,0,1,White,Black
+Volkswagen Tiguan,2020,39395,18500,0,1,White,Black
+Mercedes-Benz GLA,2018,79753,16500,0,4,Black,Black
+Subaru Outback,2021,19989,25800,0,2,Green,Gray
+Kia Forte,2021,26840,17449,0,1,Gray,Black
+Toyota Corolla,2022,4514,20683,0,1,Gray,Gray
+FIAT 500,2014,82005,6995,1,4,Silver,Black
+Toyota Tacoma,2019,59252,29995,0,1,Gray,Unknown
+Subaru Outback,2023,4980,35900,0,1,White,Beige
+Nissan Maxima,2018,33292,18450,1,3,Gray,Black
+Toyota Tacoma,2022,36648,38900,0,2,Black,Black
+BMW 3 Series,2018,44001,20999,0,3,Black,Black
+Ford F-150,2018,75393,33800,0,1,Silver,Gray
+Mercedes-Benz GLB,2021,19333,32094,1,1,Black,Black
+Chevrolet Equinox,2021,12663,20777,0,1,White,Gray
+Mercedes-Benz A-Class,2019,28010,25440,2,2,Silver,Black
+Audi RS 5,2021,9215,66900,0,2,Gray,Black
+Mercedes-Benz G-Class,2014,92498,62999,2,4,Black,Gray
+Kia Optima,2015,146100,7500,0,3,Black,Beige
+Mercedes-Benz GLB,2023,5791,42400,0,1,Black,Black
+Ford F-150,2020,111937,16975,0,1,White,Blue
+Audi Q7,2023,6411,54980,0,1,White,Black
+BMW 3 Series,2020,42725,24198,0,1,Black,Black
+Audi Q5,2023,1581,37989,0,1,Black,Black
+Lexus LX,2021,40076,67998,0,1,White,Red
+Nissan Altima,2012,115439,4395,0,7,Silver,Black
+INFINITI QX55,2023,6869,37988,0,1,Gray,Gray
+MINI Countryman,2012,100025,8995,0,1,Gray,Black
+Jeep Cherokee,2020,63703,18991,0,2,White,Black
+Kia Sportage,2021,26871,17800,0,1,Red,Gray
+Ford Super Duty F-250,2020,93819,24985,0,1,White,Gray
+Mazda CX-9,2021,38324,28691,1,1,Gray,Red
+Mercedes-Benz GLE,2021,44380,43829,0,1,Black,Black
+Mercedes-Benz S-Class,2014,124184,21777,1,3,White,Black
+Acura MDX,2015,109270,16998,0,2,White,Unknown
+Ford F-150,2020,36590,33998,0,1,Gray,Gray
+Mazda CX-5,2022,6242,28891,1,1,Red,Black
+Dodge Charger,2019,71018,20959,0,3,Black,Black
+Mazda CX-5,2023,8470,32998,0,1,Blue,Beige
+Audi Q5,2020,13984,33888,0,1,White,Beige
+Alfa Romeo Stelvio,2022,68,30460,0,1,White,Black
+Land Rover Range Rover,2018,45880,46999,0,2,Black,Gray
+Jeep Wrangler,2019,47368,34998,0,3,Black,Black
+INFINITI Q50,2020,55039,22597,1,2,Black,Gray
+Chevrolet Cruze,2018,95458,10995,0,2,Silver,Black
+Cadillac XT4,2020,19490,27995,0,1,White,Red
+Lexus IS,2010,122850,12991,0,3,Gray,Beige
+Honda Civic,2022,51155,22500,0,1,Gray,Black
+Subaru Impreza,2019,35495,18999,0,1,Black,Black
+Volkswagen Jetta,2013,112519,6950,1,2,Silver,Black
+Volkswagen Jetta,2015,91736,8995,1,4,Black,Black
+Subaru Forester,2021,24454,26555,0,1,Green,Gray
+Subaru Forester,2023,6290,33500,0,1,Silver,Black
+Nissan Sentra,2021,9892,20998,0,1,White,Black
+Toyota Corolla,2021,80771,17495,1,1,Blue,Black
+Alfa Romeo Giulia,2022,46,30542,0,1,White,Black
+Toyota Corolla,2011,101056,9991,0,2,White,Gray
+GMC Acadia,2019,62813,19500,1,1,Black,Black
+Toyota RAV4,2020,43497,24991,0,1,White,Black
+Toyota Corolla,2021,9762,22953,1,1,Gray,Black
+Mercedes-Benz C-Class,2021,15526,54499,0,2,Black,Black
+Toyota RAV4,2021,40149,30999,0,1,White,Black
+Toyota RAV4,2021,27228,26794,0,2,White,Black
+Mazda Mazda3,2019,13488,23074,0,1,Gray,Gray
+Subaru Forester,2021,26650,28649,0,1,Gray,Black
+Honda Civic,2021,53505,19995,2,1,Blue,Unknown
+BMW X7,2021,21385,57997,0,1,White,Black
+Chevrolet Silverado 1500 LTD,2022,41168,22488,0,1,White,Black
+Mercedes-Benz CLA,2023,4086,39777,1,1,Black,Black
+Audi RS 5,2015,57150,33919,0,3,Black,Black
+Ford Escape,2019,10838,20445,0,2,Gray,Black
+Volkswagen Routan,2010,135880,5995,2,2,Black,Unknown
+Toyota Sienna,2021,44459,37895,1,1,Silver,Gray
+Buick Encore,2019,21872,19998,0,2,White,Gray
+BMW X5,2020,68463,43598,0,2,Blue,Black
+Alfa Romeo Giulia,2022,51,30541,0,1,Red,Black
+Porsche Cayman,2006,70805,26919,0,2,White,Unknown
+Chrysler Town & Country,2016,51756,18998,2,2,Silver,Black
+Toyota RAV4,2021,23800,29333,0,1,Red,Black
+Volkswagen Tiguan,2020,34893,17994,0,1,Black,Black
+Toyota Corolla,2021,64606,15995,0,1,Red,Black
+Toyota Camry,2021,41792,27081,0,1,Black,Black
+Toyota Prius,2013,147350,11200,0,1,Black,Black
+Mercedes-Benz E-Class,2021,9624,42892,0,1,Red,Beige
+GMC Sierra 1500,2022,9641,70988,0,2,Black,White
+Toyota Corolla,2014,106575,10999,0,1,Black,Gray
+Acura RDX,2021,43115,31968,0,1,Red,Black
+Ford Escape,2017,114000,8490,1,2,Gold,Black
+Audi A3,2023,1529,32995,0,1,Blue,Black
+Ram 1500,2020,25736,35998,0,1,Black,Black
+Toyota Prius v,2013,98042,11600,1,1,Silver,Gray
+Ford Explorer,2021,19369,32998,0,1,Gray,Black
+Maserati GranTurismo,2010,26107,28965,2,3,Black,Black
+Toyota RAV4,2018,54264,19555,2,1,White,Black
+Jeep Wrangler,2013,117038,20495,0,2,Black,Black
+Honda CR-V,2015,104728,15891,0,4,White,Unknown
+Ford Fiesta,2016,68742,7500,0,3,Black,Black
+Chevrolet Malibu,2022,35410,19998,0,1,Gray,Gray
+BMW X1,2021,14422,26496,0,2,Gray,Black
+Chevrolet Silverado 1500,2016,103207,21995,0,2,White,Black
+Cadillac Escalade,2022,16010,99995,0,1,White,Black
+Mercedes-Benz GLC,2021,22734,31990,1,1,Black,Black
+Chevrolet Silverado 1500,2020,34545,37888,0,1,Black,Black
+Lexus ES,2022,14130,35821,0,1,White,Black
+Ford Escape,2017,76901,13499,2,2,Black,Black
+Audi A5,2023,1751,46286,0,1,White,Black
+Mercedes-Benz A-Class,2020,23107,26510,0,1,Silver,Black
+Ford Explorer,2021,17302,32998,0,1,Black,Unknown
+Chevrolet Malibu,2022,30824,19999,0,1,Gray,Black
+Acura MDX,2017,20095,31998,0,1,White,Black
+Mercedes-Benz S-Class,2015,54555,33998,1,3,Blue,Gray
+Chevrolet Trax,2020,21421,19998,1,2,White,Black
+Dodge Challenger,2019,54568,21998,0,1,White,Black
+Chevrolet Malibu,2022,36231,19998,0,1,Silver,Black
+Volkswagen Jetta,2014,90795,14998,1,2,Black,Black
+Subaru Outback,2021,18667,27998,0,1,Black,Gray
+Chevrolet Equinox,2013,50621,15998,0,3,Gray,Gray
+Nissan Versa,2021,61250,15891,0,1,Gray,Gray
+Audi Q7,2019,25687,33998,2,1,Black,Black
+Toyota Highlander,2021,24754,32797,0,1,Gray,Black
+Subaru Crosstrek,2024,5020,30998,0,1,Black,Black
+BMW 5 Series,2019,41249,25999,0,1,Black,Black
+Honda Civic,2020,18548,19995,0,1,White,Unknown
+Mercedes-Benz C-Class,2021,29334,30592,0,1,Black,Black
+Acura MDX,2020,39968,26789,0,1,White,Beige
+Nissan Altima,2022,30074,17799,0,1,Gray,Black
+Ford Escape,2021,34484,16540,0,2,White,Gray
+Mercedes-Benz GLB,2023,8591,37777,0,1,Gray,Black
+Toyota Camry,2022,35848,23993,0,1,Red,Gray
+Mercedes-Benz CLA,2021,22778,26999,0,1,Black,Black
+Mercedes-Benz GLC,2019,23268,32998,1,3,Blue,Unknown
+BMW 3 Series,2021,28852,28999,0,1,White,Black
+Chevrolet Malibu,2021,62149,18554,0,1,Red,Black
+Toyota RAV4,2021,38305,25381,0,1,Black,Gray
+Hyundai Genesis,2016,58912,18998,0,1,Silver,Gray
+Audi A4,2018,60428,19399,0,2,Silver,Black
+Nissan Altima,2020,58459,19998,1,4,Gray,Black
+Mercedes-Benz GLC,2021,9573,34421,0,1,Gray,Gray
+Volkswagen Tiguan,2020,23484,19777,0,1,Gray,Black
+Chevrolet Equinox,2016,41207,18998,1,2,Black,Black
+BMW X3,2022,40474,30998,0,1,White,Unknown
+Audi A3,2023,1350,33995,0,1,Black,Black
+MINI Countryman,2018,70844,21998,0,2,Blue,Black
+Audi A3,2023,2717,33500,0,1,Black,Black
+Volkswagen Jetta,2019,43481,17998,0,2,White,Black
+Subaru Forester,2021,46578,21388,0,1,Blue,Gray
+Kia Optima,2018,137615,8499,1,2,Black,Black
+Subaru Outback,2020,24615,29239,0,1,Gray,Brown
+Honda Pilot,2020,47973,27500,0,1,Silver,Black
+Mercedes-Benz GLE,2021,36225,42997,0,1,Gray,Black
+Toyota Tundra,2017,78171,32998,2,2,Black,Gray
+Nissan Murano,2018,94426,13987,0,4,Silver,Gray
+Mazda Mazda3,2020,26137,23333,0,1,Red,Black
+Porsche 911,2008,43698,58727,0,1,Black,Black
+Jaguar F-PACE,2019,60812,19349,1,1,White,Black
+Mercedes-Benz S-Class,2007,94629,9999,0,3,Unknown,Unknown
+Toyota Corolla,2020,23460,20495,0,1,White,Gray
+Honda Civic,2018,84732,16500,0,3,Black,Black
+Mercedes-Benz GLB,2023,7111,41061,0,1,Blue,Beige
+Mercedes-Benz E-Class,2021,28450,37968,0,1,Black,Black
+Chevrolet Tahoe,2021,63335,41500,0,1,Black,Black
+Hyundai Tucson,2019,50496,18998,0,2,Blue,Black
+Toyota Corolla,2021,43589,19693,0,1,Black,Gray
+Hyundai Santa Fe,2020,27814,20987,0,1,Silver,Black
+Toyota Corolla,2021,64916,18694,0,1,Black,Black
+Alfa Romeo Stelvio,2022,88,30459,0,1,Gray,Black
+Kia Forte,2019,53113,15695,0,1,Gray,Black
+Mercedes-Benz C-Class,2015,132700,12295,0,4,Gray,Unknown
+Acura MDX,2020,18666,29896,0,1,White,Black
+Chevrolet Malibu,2020,80174,14995,1,2,Silver,Black
+Land Rover Discovery Sport,2016,86246,12995,0,4,Black,Black
+Chevrolet Tahoe,2016,96825,26987,0,2,Black,Black
+Audi A5,2023,3037,39232,0,1,Black,Black
+BMW X3,2021,29388,29999,0,1,White,Black
+Honda Civic,2020,16589,20565,0,1,Silver,Black
+Mercedes-Benz GLE,2021,29428,39998,1,1,White,Black
+Honda Pilot,2023,5562,50222,0,1,Black,Black
+Audi A4,2023,564,35500,0,1,Black,Black
+Honda Accord,2021,52184,28485,0,1,Gray,Unknown
+Ford Fusion,2012,98474,7995,0,1,Blue,Gray
+Jeep Wrangler,2018,52098,24910,0,1,Black,Black
+Mercedes-Benz GLC,2021,7234,31933,0,1,White,Beige
+GMC Yukon,2011,157099,9999,0,3,Black,Black
+Toyota Corolla,2020,28547,20614,0,1,White,Black
+Nissan Sentra,2023,766,20897,0,1,Black,Black
+Audi Q5,2013,115118,11995,1,3,Gray,Black
+Mazda Mazda6,2016,57157,15995,0,1,Blue,Black
+Toyota RAV4,2021,19768,35999,0,1,Black,Gray
+BMW 3 Series,2016,50360,17450,0,3,Black,Red
+Volkswagen Jetta,2020,53724,16790,1,1,White,Black
+Nissan Kicks,2020,27213,16886,0,2,Red,Black
+Honda Civic,2019,31114,21998,0,2,Black,Black
+Mazda CX-5,2021,12662,26691,0,1,Red,Black
+Ford Explorer,2016,54407,23896,1,2,Gray,Gray
+Karma Revero GT,2020,7685,63728,0,1,Black,Black
+Mercedes-Benz GLB,2023,7842,39999,0,1,Black,Gray
+Kia K5,2022,35452,23000,0,1,White,Black
+Subaru Forester,2014,103854,12495,1,2,White,Gray
+Nissan Sentra,2019,50110,16998,0,2,White,Black
+Audi Q5,2018,43865,19992,1,2,Blue,Black
+BMW 4 Series,2016,79607,15777,0,0,Black,Black
+Chevrolet Cruze,2018,70218,13200,1,1,Black,Black
+Mazda CX-9,2015,81726,16998,0,2,Gray,Black
+BMW X3,2020,66846,20996,0,1,Black,Black
+Ford Fusion,2014,133890,7495,0,3,Silver,Black
+Chevrolet Traverse,2019,31111,27999,0,1,Gray,Black
+Mercedes-Benz SLC,2017,57090,22500,1,3,Black,Red
+Toyota RAV4,2021,25326,27998,1,1,White,Black
+Kia Sportage,2021,20863,18441,0,1,Gray,Gray
+Dodge Charger,2022,20507,24988,0,1,Black,Black
+Alfa Romeo Giulia,2022,55,30541,0,1,Black,Black
+Honda Accord,2021,35759,24899,0,1,White,Beige
+Toyota Camry,2019,64053,21998,1,2,White,Black
+INFINITI Q50,2014,31757,22998,0,2,Gray,Gray
+Ford Escape,2014,84574,13795,1,2,Black,Black
+Chevrolet Silverado 1500,2017,64185,30300,3,1,White,Black
+Toyota Camry,2021,25826,20995,0,1,Blue,Black
+Nissan Rogue,2020,87596,12777,0,3,Gray,Black
+Mercedes-Benz A-Class,2019,29934,25899,0,1,Black,Black
+BMW X3,2021,24094,29456,0,1,Gray,Black
+Audi Q7,2023,2403,54664,0,1,Black,Black
+GMC Yukon,2021,41662,60782,0,1,Gray,Brown
+Lexus RX,2020,23942,35998,0,1,Black,Unknown
+Toyota RAV4,2021,18448,35998,0,2,Black,Black
+Mazda Mazda3,2016,37810,18998,0,2,Blue,Black
+Hyundai Santa Fe,2021,39099,23998,1,1,Blue,Black
+Toyota Tundra,2014,57738,33998,2,3,Black,Brown
+BMW X1,2018,55265,21998,1,2,White,Black
+Lexus ES,2021,21289,37998,0,1,White,Unknown
+Audi Q5,2021,40208,36998,0,1,Black,Black
+Ford F-150,2020,64447,31998,1,2,Black,Gray
+Jeep Wrangler,2018,56425,21920,0,1,White,Black
+Mazda CX-30,2022,29308,24750,0,1,Gray,Black
+Alfa Romeo Stelvio,2022,85,35488,0,1,Black,Black
+Hyundai Elantra,2017,104050,12998,2,2,Gray,Gray
+Honda Accord,2021,49141,26035,0,1,White,Beige
+Chevrolet Silverado 1500,2019,76920,31998,1,2,Black,Black
+Ford Fusion,2020,12733,20995,0,1,White,Black
+Mercedes-Benz GLE,2021,27163,41433,0,1,Black,Black
+Mercedes-Benz GLE,2022,26766,50723,0,1,Black,Black
+Honda Civic,2021,41190,21999,0,1,Gray,Black
+Kia Forte,2021,9443,17995,0,1,Red,Black
+Toyota Sienna,2017,92197,22998,0,3,Black,Gray
+Ford Explorer,2016,91885,15995,0,3,Black,Black
+Mercedes-Benz C-Class,2023,4508,57363,0,1,White,White
+Subaru Outback,2017,51853,22158,0,1,Blue,Brown
+BMW 3 Series,2017,59572,18999,0,3,White,Brown
+Kia Forte,2015,67246,9990,1,1,Gray,Gray
+Toyota RAV4,2021,33118,28194,0,1,Silver,Black
+Hyundai Elantra,2020,60791,14088,0,1,Black,Gray
+Audi Q7,2021,38785,42998,0,1,Tan,Black
+Mercedes-Benz S-Class,2019,48491,49499,0,1,Silver,Black
+Mercedes-Benz A-Class,2021,34576,26510,0,3,Blue,Black
+Honda Civic,2017,94751,16998,0,1,White,Unknown
+Acura MDX,2014,76699,16449,0,1,Gray,Unknown
+Chevrolet Equinox,2020,26267,23777,0,1,White,Black
+Land Rover Range Rover Evoque,2019,45704,24499,1,3,White,Black
+Subaru Ascent,2021,55635,24988,0,1,Gray,Gray
+INFINITI QX60,2018,63000,19988,0,2,Gray,Brown
+Lexus RX,2015,59705,19999,2,2,Gray,Black
+BMW 2 Series,2016,97076,12987,1,2,Gray,Red
+Volkswagen Tiguan,2021,6994,20894,0,1,White,Black
+Chevrolet Silverado 1500,2020,67465,31998,1,1,White,Black
+Ford Escape,2009,96991,7900,0,2,White,Unknown
+Jeep Wrangler,2022,23799,42998,0,1,White,Brown
+Mercedes-Benz GLB,2021,21591,30896,0,1,White,Black
+BMW 4 Series,2016,85987,19994,0,2,Black,Black
+Volkswagen Tiguan,2020,16789,20777,0,1,Black,Gray
+Honda Crosstour,2013,75935,11798,0,2,Silver,Black
+Kia Seltos,2021,43244,20100,0,1,White,Black
+Jeep Wrangler,2022,18815,45271,0,1,White,Black
+Hyundai Tucson,2022,18493,22500,0,1,Black,Black
+Mercedes-Benz GLC,2019,19494,27998,0,2,Gray,Black
+BMW 3 Series,2011,93632,7500,0,4,Gray,Gray
+Mercedes-Benz GLA,2015,71278,13987,1,2,Black,Beige
+Ford F-150,2020,47109,31998,1,1,Black,Black
+Ford Fiesta,2015,85972,6900,0,1,Black,Black
+Mercedes-Benz C-Class,2020,25532,47000,0,2,White,Black
+Chevrolet Camaro,2020,80497,30987,1,3,White,Black
+Kia Forte,2022,29105,16999,1,1,Gray,Black
+Lexus NX,2021,34218,28250,0,1,White,Beige
+Nissan Sentra,2022,8554,21988,0,1,White,Black
+Audi A3,2023,2266,32995,0,1,Black,Black
+Kia K5,2022,18696,26991,0,1,White,Black
+Mercedes-Benz GLE,2021,22944,47157,0,1,Blue,Black
+Audi A3,2023,2521,32995,0,1,Black,Black
+Kia Soul,2020,66114,13900,0,1,Gray,Black
+Audi Q7,2019,26958,29998,0,1,Gray,Beige
+Mercedes-Benz C-Class,2019,37366,25262,0,2,Black,Black
+Mercedes-Benz GLB,2020,31656,27990,0,1,Unknown,Black
+Kia Optima,2020,71000,16900,0,1,Gray,Black
+Chevrolet Silverado 1500,2018,61608,30549,0,1,Gray,Black
+Cadillac XT4,2020,16804,27995,0,1,Black,Black
+Mercedes-Benz CLS,2019,23351,43895,0,1,White,Black
+Ford F-150,2023,2816,80000,0,2,Gray,Black
+Toyota Corolla,2010,151649,5680,1,3,Black,Gray
+Subaru Forester,2020,22828,26500,0,1,Black,Gray
+Hyundai Elantra,2018,40223,12999,0,3,Silver,Gray
+Mercedes-Benz GLC,2021,29755,29933,0,1,Gray,Beige
+Nissan Sentra,2020,18122,18954,0,1,Blue,Black
+Toyota Camry,2021,20182,22995,1,1,Gray,Black
+Honda Odyssey,2013,97773,17998,0,1,Gray,Gray
+Mercedes-Benz S-Class,2016,39327,48919,1,2,Black,Black
+Hyundai Sonata,2016,88567,15998,0,1,Black,Black
+Volkswagen Tiguan,2022,7139,26399,0,1,White,Black
+Ford Transit Cargo Van,2021,22280,32998,0,1,White,Black
+Honda Civic,2022,8100,24991,0,1,White,Black
+Audi A5,2020,39232,33998,2,1,White,Black
+Nissan Sentra,2019,37152,13799,0,1,White,Black
+Ford Escape,2020,63973,17495,0,2,White,Beige
+MINI Clubman,2017,24293,19222,1,1,Red,Gray
+Kia Optima,2020,55640,14988,0,2,Gray,Black
+Maserati Levante,2021,30972,41775,0,1,White,Brown
+Subaru Forester,2023,4148,27000,0,1,Green,Gray
+Volvo XC90,2021,36858,43361,0,1,Black,Unknown
+Kia Optima,2014,78962,12495,1,2,Black,Black
+BMW 2 Series,2016,90179,20419,0,3,Silver,Black
+Toyota Corolla,2014,128302,10500,1,2,White,Gray
+BMW X3,2022,7590,36999,0,1,Gray,Brown
+Dodge Journey,2017,94402,9998,2,1,Blue,Black
+Ford F-150,2019,91274,29980,0,1,White,Brown
+Volkswagen Tiguan,2021,37798,22454,1,1,Silver,Black
+Kia Optima,2020,63028,12471,0,1,Gray,Black
+Mercedes-Benz S-Class,2015,95921,35999,0,2,White,Brown
+Mercedes-Benz E-Class,2022,12705,46713,0,1,White,Gray
+Kia Optima,2014,123058,6995,3,3,Black,Gray
+Porsche 718 Cayman,2018,54169,48919,0,2,Black,Black
+Hyundai Elantra,2018,39023,12995,2,1,Gray,Black
+Honda CR-V,2018,44533,21998,0,1,Black,Black
+Honda Accord,2022,18068,22988,0,1,Silver,Unknown
+Nissan Altima,2020,70188,18300,0,2,Silver,Black
+Mercedes-Benz S-Class,2007,148602,9542,0,3,Black,Black
+Toyota Corolla,2023,20235,19999,0,1,Black,Black
+Acura MDX,2020,42610,28987,0,1,Silver,Black
+Mercedes-Benz GLS,2019,58536,35991,0,2,Black,Brown
+Ford Expedition,2020,6530,50197,0,1,Black,Black
+Volkswagen Atlas,2018,68069,21998,0,4,Silver,Black
+Ford Escape,2010,148988,7495,2,4,White,Gray
+Toyota C-HR,2019,70631,16220,1,2,Gray,Black
+Dodge Grand Caravan,2015,152597,5999,1,3,White,Black
+Honda Civic,2022,29703,22999,1,1,Silver,Black
+Mercedes-Benz GLB,2022,27692,34020,0,1,Black,Black
+Chevrolet Equinox,2020,24023,24998,0,1,White,Black
+Honda CR-V,2023,1844,33688,0,1,White,Black
+BMW X3,2022,11987,36999,1,1,White,Black
+INFINITI QX50,2020,16111,29998,0,1,Black,Gray
+Mercedes-Benz GLA,2021,23533,30678,0,1,White,Black
+Toyota Camry,2012,110441,10880,0,5,White,Gray
+BMW X3,2021,31326,30411,0,1,Gray,Beige
+Ford F-150,2018,157394,17995,0,3,Gray,Gray
+Ford Escape,2018,32704,13987,0,2,White,Black
+Acura MDX,2016,109937,18998,0,3,White,Unknown
+Honda Civic,2020,19869,20469,0,1,White,Unknown
+Kia K5,2021,38512,25998,0,1,Silver,Black
+Acura RDX,2014,105118,16998,2,1,Black,Black
+Honda Pilot,2017,81643,19495,0,1,White,Unknown
+Volvo XC40,2021,19237,34423,0,1,Gray,Black
+Audi Q3,2019,63070,17500,0,1,Black,Black
+Land Rover Range Rover Sport,2014,84884,22995,0,1,White,White
+Jeep Wrangler,2016,90149,19999,0,4,Blue,Black
+BMW X5,2022,14078,44997,0,1,Gray,Brown
+Lexus NX,2019,37294,28300,0,1,Unknown,Black
+Subaru Forester,2023,1935,32918,0,1,Brown,Black
+Mercedes-Benz E-Class,2013,34678,20998,0,2,Gray,Black
+Volkswagen Golf GTI,2014,100630,10798,0,1,White,Black
+Scion tC,2015,144366,7499,0,2,Gray,Black
+Hyundai Santa Fe,2020,24134,20998,0,1,Gray,Black
+Subaru Outback,2022,6967,30000,0,1,Gray,Gray
+BMW X1,2015,25104,19998,0,3,White,Black
+Subaru Crosstrek,2024,1535,25992,0,1,Blue,Gray
+Jaguar E-PACE,2019,33270,24000,0,2,White,Unknown
+Land Rover Defender,2022,46567,62887,0,1,White,Black
+Kia Optima,2020,103766,9950,0,2,Gray,Black
+Nissan Altima,2020,40172,21991,0,1,White,Black
+Mercedes-Benz CLK,2007,104809,8895,1,4,Silver,Black
+Hyundai Elantra,2020,23960,15779,0,2,Gray,Black
+Ram 1500,2020,8924,33998,0,1,Black,Black
+BMW X3,2020,30012,25991,2,1,Black,Black
+Toyota Corolla,2021,61537,17988,0,1,Unknown,Black
+Honda Odyssey,2021,20336,35448,1,1,Silver,Gray
+Toyota Prius Prime,2017,48119,23222,0,1,Silver,Black
+Nissan Sentra,2022,7296,18999,0,1,Gray,Black
+Acura RDX,2013,98716,11999,0,2,White,Unknown
+Toyota Corolla,2021,14875,21998,0,2,White,Black
+Toyota Prius,2016,66828,20998,1,2,White,Gray
+Audi A6,2017,71003,15999,1,2,Blue,Brown
+Nissan Sentra,2020,38340,17400,0,2,White,Black
+Toyota GR Supra,2023,6023,57444,0,1,Yellow,Black
+Chevrolet Tahoe,2017,63539,25500,1,1,Black,Black
+Chevrolet Silverado 1500,2020,9949,33988,0,1,Black,Black
+Honda Accord,2021,40604,29998,0,2,White,Gray
+Toyota Tacoma,2023,8074,42991,0,1,White,Gray
+Land Rover Range Rover,2015,89338,24900,0,1,Black,Black
+Alfa Romeo Stelvio,2022,65,35663,0,1,Black,Black
+Kia Forte,2021,52646,16991,0,1,Red,Black
+McLaren 720S,2018,8652,219999,0,3,White,Unknown
+Ford Explorer,2021,47507,29998,0,1,Gray,Black
+Volkswagen Tiguan,2021,25185,21912,0,1,White,Black
+Honda Odyssey,2018,75932,25998,1,2,Gray,Gray
+Chevrolet Colorado,2016,93420,18991,1,2,Black,Black
+Mercedes-Benz GLA,2021,27219,29997,0,1,White,Black
+Mercedes-Benz C-Class,2016,127746,11990,0,2,Black,Black
+Chevrolet Cruze Limited,2016,86047,12998,0,2,White,Black
+Hyundai Elantra,2022,18554,22998,0,2,Black,Black
+Mercedes-Benz C-Class,2018,36871,22998,2,3,Blue,Gray
+INFINITI Q70,2015,77258,18998,0,2,White,Brown
+Acura Integra,2023,3477,34998,0,1,Blue,Gray
+Jaguar F-PACE,2020,33202,34998,0,1,Gray,Black
+Nissan Rogue,2018,62713,18998,0,2,Blue,Black
+Audi A3,2023,2195,32995,0,1,Black,Black
+Mercedes-Benz E-Class,2022,11988,43563,0,1,Red,Beige
+Nissan Sentra,2023,10269,19859,0,1,Silver,Black
+Volkswagen Jetta,2021,37147,18782,0,1,Gray,Black
+Chevrolet Malibu,2020,26610,20998,0,1,White,Gray
+Subaru Forester,2020,50162,23998,0,1,Silver,Black
+Kia K5,2021,34764,22998,0,1,White,Black
+Toyota Prius,2015,125159,13995,0,3,Gray,Gray
+Nissan Altima,2015,46189,15998,1,1,Black,Beige
+Toyota Prius,2022,45722,22690,0,1,Black,Black
+Ford Escape,2017,82219,11245,0,1,White,Black
+Jeep Wrangler,2019,30170,29998,0,1,White,Black
+Jeep Wrangler,2018,51323,29998,0,2,Black,Black
+Honda Civic,2020,36303,18995,0,1,Unknown,Unknown
+Lexus NX,2021,26525,30998,0,1,White,Black
+Audi A3,2015,70811,14895,1,2,Black,Black
+Nissan Sentra,2020,95604,13988,0,1,Gray,Black
+Ford Taurus,2010,167599,5998,0,2,White,Gray
+Nissan Quest,2015,90699,9995,1,2,White,Gray
+Mercedes-Benz GLA,2021,31230,26933,0,1,Black,Black
+Honda Accord,2021,18949,26489,0,1,White,Black
+Toyota Highlander,2012,93113,16998,0,1,Silver,Gray
+Hyundai Tucson,2022,32353,22998,1,1,Black,Black
+Subaru Outback,2023,6283,35900,0,1,White,Beige
+Volvo S90,2022,2304,42191,0,1,Black,Black
+BMW X5,2022,33541,43379,0,1,Gray,Beige
+Honda Accord,2022,20280,26994,0,1,White,Unknown
+Chevrolet Trailblazer,2023,7911,20989,0,1,Black,Black
+BMW 5 Series,2023,6321,51187,0,1,White,Black
+Toyota RAV4,2021,36489,28994,1,1,Blue,Black
+Dodge Challenger,2015,85799,19200,4,3,Black,Black
+BMW 5 Series,2023,5533,52292,0,1,White,Brown
+Mercedes-Benz GLB,2021,18498,32415,0,1,Black,Black
+Lexus UX,2021,12144,27991,0,1,White,Brown
+Audi Q5,2022,8997,33956,0,1,Silver,Black
+Ram 1500,2015,100521,22998,0,2,Silver,Gray
+Ford Ranger,2019,69689,23400,0,2,Blue,Black
+Chevrolet Monte Carlo,2006,83089,9500,0,5,Silver,Gray
+Mercedes-Benz E-Class,2011,74911,15850,0,3,Gray,Black
+Mercedes-Benz GLE,2020,55376,36998,0,1,White,Black
+Ford Mustang,2018,9452,58495,0,3,White,Black
+BMW X7,2021,23145,70498,0,1,White,Black
+Toyota Corolla,2020,32544,19498,0,1,Blue,Black
+Toyota Tacoma,2019,119342,20999,0,1,White,Gray
+Toyota RAV4,2022,8972,32000,0,1,Gray,Black
+Ford F-150,2010,95812,13345,0,2,White,Unknown
+Acura MDX,2020,21556,31795,0,1,White,White
+Volkswagen Golf,2015,80002,12995,1,3,White,Gray
+Audi A3,2023,1760,32995,0,1,Blue,Black
+Toyota Avalon,2022,35234,23899,0,1,Silver,Black
+Mercedes-Benz GLS,2020,35534,54896,0,1,Black,Brown
+Chevrolet Malibu,2022,33071,19998,0,2,Gray,Gray
+Ford F-150,2017,58726,25995,0,1,Blue,Gray
+Ford Edge,2012,129209,8995,0,4,Silver,Black
+Subaru Forester,2014,123549,11778,0,3,Red,Gray
+Toyota Corolla,2021,29450,22731,0,1,White,Black
+Jeep Wrangler,2018,67262,24998,1,3,White,Black
+BMW 3 Series,2021,3274,45999,0,1,Black,Black
+Honda Accord,2019,57549,25998,0,1,Silver,Gray
+Volvo S60,2020,22091,26998,0,1,Black,Black
+Kia Forte,2020,45583,17988,0,1,Black,Black
+Volvo S80,2004,74181,6495,0,2,Silver,Beige
+Toyota Tacoma,2021,8006,38998,0,1,Gray,Gray
+Toyota Mirai,2019,71373,8998,0,3,Silver,Blue
+Mercedes-Benz GLC,2019,39358,26986,0,2,Black,Black
+Volkswagen Tiguan,2020,54654,22998,0,1,Blue,Black
+Honda Civic,2022,32553,23495,0,1,Red,Black
+Honda Civic,2012,46486,13550,0,3,Silver,Gray
+Ford Escape,2019,108465,11995,0,2,White,Gray
+Chevrolet Camaro,2022,36151,24400,0,1,Black,Black
+Jeep Compass,2018,68250,13499,1,1,Blue,Black
+BMW 5 Series,2023,4341,51825,0,1,White,Black
+Toyota Camry,2022,43959,24400,0,1,White,Gray
+Mercedes-Benz GLB,2020,64761,26444,0,2,White,Black
+Jeep Grand Cherokee,2019,23240,25998,0,1,White,Black
+Honda CR-V,2014,70956,13499,1,1,Gray,Gray
+Alfa Romeo Stelvio,2022,25,33684,0,1,Red,Black
+Toyota RAV4 Prime,2021,13159,42294,0,1,Silver,Black
+Honda Passport,2022,2010,37856,0,1,Black,Black
+Nissan Rogue,2016,117896,13599,0,1,White,Black
+Hyundai Sonata,2013,82904,10995,0,2,Silver,Gray
+Toyota Corolla,2023,25273,19699,0,1,Silver,Gray
+Dodge Charger,2021,53353,19999,1,1,Gray,Black
+Jeep Grand Cherokee,2020,42885,27994,0,1,Black,Black
+Nissan NV200 Compact Cargo,2015,110993,11998,1,1,White,Gray
+Hyundai Sonata,2015,116291,9998,0,1,Blue,Gray
+Toyota Prius c,2018,77042,12999,3,1,Black,Black
+Honda Civic,2022,10805,25995,0,1,Blue,Unknown
+Lexus NX,2021,30707,31500,0,1,White,Red
+Land Rover Range Rover Velar,2018,67236,26995,0,2,Gray,Black
+Ford F-150,2020,47519,30930,0,1,White,Gray
+Mercedes-Benz GLC,2019,13520,28495,0,1,Silver,Black
+Porsche Macan,2023,6882,53983,0,1,White,Black
+Chevrolet Express Cargo Van,2021,55751,28998,1,1,White,Gray
+Toyota Camry,2009,155980,5500,0,3,Gold,Beige
+Ford F-150,2021,43209,35998,0,2,White,Gray
+Subaru Crosstrek,2021,51073,24998,0,1,Yellow,Black
+Subaru Outback,2024,6157,33359,0,1,Silver,Gray
+Ford F-150,2018,42044,30998,0,2,Gray,Gray
+BMW 5 Series,2023,6056,49317,0,1,White,Black
+Ram 1500,2019,40718,31998,0,2,White,Black
+Lexus IS,2021,25097,31000,0,1,Blue,Black
+Nissan Versa,2021,65570,15674,0,1,Silver,Gray
+Alfa Romeo Stelvio,2022,86,35298,0,1,White,Black
+Ford F-150,2020,50197,33998,0,1,Gray,Black
+Subaru B9 Tribeca,2006,141511,5995,2,2,Black,Unknown
+Ford Transit Cargo Van,2020,56097,32578,0,1,White,Gray
+Chevrolet Malibu,2022,52126,20998,1,1,Black,Black
+Toyota Tacoma,2022,33228,35666,0,1,White,Gray
+Kia Forte,2021,21598,17998,0,1,Gray,Black
+Volkswagen Tiguan,2020,24391,29998,1,1,White,Black
+Mercedes-Benz GLB,2023,7125,38777,0,1,White,Black
+Honda Civic,2012,127177,8995,0,2,Gray,Gray
+Mercedes-Benz GLB,2023,9015,42558,0,1,Red,Gray
+Alfa Romeo Stelvio,2022,64,35688,0,1,Black,Black
+Alfa Romeo Giulia,2022,55,30541,0,1,Blue,Black
+Audi A5,2021,23731,36995,0,1,Gray,Black
+Buick Encore GX,2022,7437,19988,0,1,Black,Black
+Toyota Corolla,2021,60518,16000,0,1,White,Gray
+Honda Civic,2015,53941,14708,2,2,Gray,Black
+Mercedes-Benz SL,2005,82528,12995,2,4,Silver,Gray
+Nissan Rogue,2021,92871,19998,0,1,Gray,Black
+Buick Cascada,2016,54227,15998,0,2,White,Black
+Mercedes-Benz C-Class,2023,7193,44385,0,1,White,Black
+Toyota Corolla,2022,34565,19293,1,1,Silver,Black
+Chrysler 200,2015,57578,14998,0,1,White,Black
+Mercedes-Benz C-Class,2020,25772,27933,0,1,White,Black
+Land Rover Range Rover Sport,2009,97702,9995,0,0,Purple,Unknown
+BMW X3,2021,19229,29991,1,1,White,Black
+BMW 3 Series,2015,76143,10495,1,5,Black,Beige
+Mercedes-Benz GLS,2017,71041,33986,0,2,Silver,Gray
+Chevrolet Equinox,2020,23791,18995,0,1,Silver,Gray
+Honda Civic,2019,68276,16399,1,3,Gray,Black
+Toyota Camry,2021,52534,20073,0,1,Black,Black
+Nissan Maxima,2014,122642,8995,1,2,Blue,Black
+Toyota Corolla,2022,16801,19495,0,1,White,Black
+Lexus IS,2015,55056,22495,0,2,White,Unknown
+Jeep Grand Cherokee,2019,93938,22998,0,2,Black,Black
+Lexus RC,2017,109119,20845,2,1,White,Red
+Chevrolet Silverado 1500,2014,98094,19876,1,5,Silver,Black
+Toyota Corolla,2020,31532,20064,0,2,Black,Black
+Hyundai Elantra,2021,13081,18998,0,1,Red,Black
+Chevrolet Impala Limited,2016,58353,9500,0,2,Gray,Black
+Dodge Grand Caravan,2019,58361,17600,0,1,Red,Black
+Audi A6,2008,95450,9795,0,0,Black,Unknown
+Land Rover Discovery Sport,2023,10607,37777,0,1,White,Black
+Toyota Corolla,2021,69058,17300,0,1,Blue,Gray
+BMW 4 Series,2022,6647,49999,0,1,Blue,Black
+Toyota Corolla,2021,39688,19078,0,1,Blue,Gray
+Chrysler Pacifica,2022,33066,29998,0,1,Black,Black
+Ford Ranger,2020,33074,31998,0,1,White,Black
+Honda Accord,2014,106165,9999,0,2,Silver,Black
+Honda Civic,2019,36380,19998,0,2,Blue,Gray
+Mercedes-Benz GLE,2020,54285,35998,0,2,White,Black
+Acura ILX,2021,22646,23500,0,2,White,Unknown
+Jeep Wrangler,2020,21005,33496,0,2,White,Black
+Toyota Corolla,2020,36549,19591,0,1,White,Black
+Ram 1500,2020,43024,29998,1,1,Red,Black
+Alfa Romeo Stelvio,2022,63,31072,0,1,Black,Black
+Honda Civic,2012,120288,7995,0,0,Unknown,Unknown
+Toyota RAV4,2022,41077,25593,0,1,Gray,Black
+Toyota Corolla,2021,63499,16000,0,1,White,Gray
+Mazda CX-5,2022,12172,25649,0,1,Red,Black
+Ford F-150,2019,48190,43998,0,1,White,Brown
+Toyota Camry,2013,171456,10495,0,2,Black,Unknown
+Nissan Altima,2020,23493,19998,0,1,White,Black
+Dodge Grand Caravan,2016,146703,6988,0,2,Gray,Black
+GMC Yukon,2016,95999,25987,0,3,White,Brown
+Chevrolet Corvette,2015,5369,69695,0,2,Silver,Red
+Kia Sportage,2021,46285,20000,1,1,White,Black
+Honda Odyssey,2019,30811,27994,0,1,Silver,Unknown
+Mercedes-Benz GLB,2021,35704,28987,0,1,White,Black
+Honda Civic,2015,91040,11995,0,3,Gray,Unknown
+Land Rover Range Rover Velar,2020,49726,33851,0,1,Blue,Black
+Mercedes-Benz E-Class,2019,10629,40000,0,1,Silver,Black
+Chevrolet Traverse,2013,125196,10995,1,5,White,Black
+Mercedes-Benz C-Class,2019,32777,29500,1,2,Black,Black
+Honda Civic,2019,33111,19999,0,1,Black,Black
+Mercedes-Benz GLE,2021,42003,39991,0,1,White,Beige
+Rolls-Royce Dawn,2018,14272,252900,0,2,White,Beige
+Acura RDX,2021,25613,27995,0,3,Blue,Black
+Mercedes-Benz GLC,2023,5614,48515,0,1,White,Black
+Toyota RAV4,2021,60665,22987,0,1,Black,Black
+Chevrolet Silverado 1500,2019,98416,32995,1,2,White,Black
+Mitsubishi Outlander,2019,72455,17998,0,2,Black,Black
+Honda Pilot,2018,102410,20998,0,2,White,Black
+Ford F-150,2019,70897,29998,0,1,Blue,Black
+Ram 1500,2020,66634,36998,0,1,Black,Black
+Acura RDX,2023,3057,38777,0,1,Blue,Black
+Mercedes-Benz S-Class,2007,85760,8995,2,3,White,Brown
+Kia Forte,2021,39379,17998,0,1,White,Black
+Lexus NX,2021,23066,30998,0,2,White,Red
+Audi A6,2023,3119,49997,0,1,Gray,Black
+Ford F-150,2021,59756,36998,0,2,White,Gray
+BMW X6,2021,21663,55498,0,1,Black,Red
+Ford Transit Cargo Van,2017,87809,20999,1,1,White,Gray
+Mercedes-Benz GLC,2021,17605,33997,0,1,Black,Black
+Mercedes-Benz C-Class,2016,77738,21987,0,4,Black,Black
+INFINITI QX50,2020,28312,26498,0,1,Black,Gray
+Toyota Prius,2014,110915,13695,0,3,Gray,Gray
+Hyundai Sonata,2019,39599,18998,0,2,White,Gray
+Chrysler Town & Country,2014,146896,5495,0,5,Gray,Black
+Toyota Camry,2020,49179,21995,0,1,Black,Black
+Hyundai NEXO,2020,34563,12950,0,1,White,Gray
+Ford F-150,2021,53667,35998,0,1,White,Gray
+Mazda CX-5,2021,22943,23896,0,1,Blue,Black
+Mercedes-Benz GLC,2020,32299,29998,1,1,White,Unknown
+Toyota Avalon,2021,40595,30998,0,1,Silver,Black
+BMW 5 Series,2003,186816,6997,0,8,Black,Black
+Cadillac Escalade,2011,137244,15500,0,2,White,Beige
+Mercedes-Benz S-Class,2016,21855,73495,0,1,Black,White
+Nissan Sentra,2021,44122,18891,0,1,White,Black
+BMW 3 Series,2016,70102,14999,0,1,Black,Black
+Ford Transit Cargo Van,2020,53669,33995,0,1,White,Gray
+Mitsubishi Outlander,2019,56038,19896,0,1,Red,Black
+Mercedes-Benz GLA,2023,5375,40740,0,1,Blue,Beige
+Mercedes-Benz M-Class,2010,135592,7999,0,2,Black,Black
+Subaru Outback,2021,2306,32493,0,1,Green,Gray
+Honda CR-V,2018,49702,24998,1,1,Silver,Gray
+Volkswagen Tiguan,2016,39566,17998,0,1,Gray,Black
+Lexus RX,2021,50587,32998,1,1,Tan,Black
+Mercedes-Benz GLA,2015,92678,16998,0,2,White,Black
+Jeep Wrangler,2020,38746,32998,0,1,Gray,Black
+Audi Q7,2020,61605,28918,0,1,Black,Black
+Honda Civic,2022,24646,23995,0,1,Gray,Black
+Jeep Wrangler,2017,111065,21997,1,2,White,Black
+Ford Mustang,2016,68407,18998,2,2,Gray,Black
+Mercedes-Benz GLE,2021,24998,45998,0,1,Gray,Black
+Bentley Flying Spur,2008,76195,28995,0,3,Blue,Unknown
+Nissan Sentra,2021,35750,16999,2,1,Gray,Black
+Toyota Prius,2012,198438,8395,0,1,Gray,Gray
+Toyota Corolla,2016,116627,14998,0,2,Blue,Gray
+BMW X6,2021,42098,63998,0,1,Black,Black
+Maserati GranTurismo,2011,22571,32999,0,3,Black,Beige
+Audi S7,2014,72485,24987,0,2,Red,Black
+Chevrolet Camaro,2020,62514,21987,2,2,Blue,Black
+Mercedes-Benz GLK,2015,38846,18999,0,2,White,Unknown
+Volvo XC40,2021,25109,31991,0,1,White,Black
+Jeep Wrangler,2018,104556,28998,0,1,Blue,Black
+Jeep Wrangler,2019,82313,26998,2,1,White,Black
+Kia Soul,2014,86698,12599,0,1,Brown,Black
+Toyota Corolla,2020,107125,14650,0,2,Unknown,Unknown
+Toyota RAV4,2018,68049,22998,0,2,Black,Black
+Volvo S60,2017,101389,14998,1,2,White,Beige
+Toyota Highlander,2021,43510,37998,0,3,Black,Black
+Toyota RAV4,2018,70041,22998,0,3,Gray,Black
+Honda Pilot,2013,105642,15998,0,2,Black,Unknown
+Audi A6,2014,67217,19998,2,1,Gray,Black
+Honda Fit,2016,39162,17998,0,3,White,Black
+Volkswagen Jetta,2019,44512,16998,1,1,Black,Black
+Toyota GR Corolla,2023,1789,46998,0,1,White,Black
+Hyundai Sonata,2013,123453,11998,1,1,Blue,Gray
+Hyundai Elantra,2021,42953,20998,1,1,Black,Gray
+Land Rover Range Rover Evoque,2020,11081,35998,0,2,White,Black
+Nissan Sentra,2022,44666,20998,2,1,Gray,Gray
+BMW X5,2016,56564,26998,1,3,White,Black
+Hyundai Elantra,2016,104746,12599,0,2,Silver,Gray
+MINI Hardtop,2013,34829,15998,0,2,Blue,Black
+Kia Forte,2022,14277,18641,0,1,White,Black
+MINI Countryman,2021,31754,24999,0,1,White,Gray
+BMW 5 Series,2010,114550,7995,0,3,White,Black
+Ford F-150,2021,42080,37998,0,1,White,Gray
+Toyota Corolla,2021,45301,19291,0,1,White,Gray
+Toyota Camry,2018,45881,18498,0,1,Red,Gray
+Ford Explorer,2020,50975,21120,0,1,White,Beige
+Honda Civic,2020,26064,20500,0,1,Gray,Black
+Mercedes-Benz Sprinter Passenger Van,2022,43,83993,0,1,Black,Black
+Dodge Charger,2021,25327,69987,2,1,Gray,Red
+Jeep Grand Cherokee,2015,112461,13995,0,1,White,Beige
+Nissan Versa,2021,51155,15857,0,2,White,Gray
+Ford F-150,2023,5350,37999,0,1,Blue,Black
+Nissan Sentra,2019,52053,12490,0,3,White,Black
+Ford Escape,2013,79850,9500,0,4,White,Black
+Subaru Crosstrek,2019,31066,22799,0,1,Gray,Gray
+Chevrolet Malibu,2022,40867,20998,0,1,White,Gray
+Nissan Altima,2020,44619,17999,0,1,Silver,Black
+Ford Explorer,2018,54327,20485,1,2,Black,Black
+Aston Martin Vantage,2020,4080,105888,0,1,Gray,Black
+Chevrolet Suburban,2022,63673,52400,0,1,Gray,Black
+Acura MDX,2022,41907,36965,0,1,Black,Black
+BMW 3 Series,2011,108470,7995,0,4,Gray,Unknown
+BMW X5,2015,134985,14995,2,2,Unknown,Unknown
+Nissan Altima,2020,40274,17991,0,1,White,Black
+Mazda CX-5,2020,32289,22495,0,1,White,Black
+Ford F-150,2019,104905,15999,0,1,White,Gray
+Ford Fusion,2020,68861,18991,0,1,Unknown,Unknown
+Jeep Compass,2022,13977,23959,1,1,Black,Black
+Nissan Rogue,2021,14943,24998,0,1,Red,Black
+Dodge Charger,2021,41440,27888,0,2,Black,Black
+Toyota Camry,2018,31396,21998,0,2,Silver,Gray
+Mercedes-Benz C-Class,2019,73296,20999,0,2,Black,Black
+Chevrolet Malibu,2020,38029,20998,0,1,White,Black
+Ford Escape,2021,23155,23998,0,1,White,Black
+Chevrolet Trailblazer,2023,8957,25777,0,0,Gray,Black
+Toyota Tacoma,2017,76815,27500,1,3,Black,Gray
+Nissan Pathfinder,2017,103260,10995,0,3,Black,Black
+Volkswagen Tiguan,2020,33271,23998,1,1,Black,Black
+Subaru Forester,2017,83415,17595,0,2,Silver,Black
+Chevrolet Tahoe,2021,75854,44998,0,1,Black,Black
+Chevrolet Silverado 1500,2020,34296,37998,0,1,White,Black
+Hyundai Santa Fe,2023,6659,32998,0,1,Blue,Black
+Ram 2500,2021,16763,35999,1,1,White,Gray
+Toyota RAV4,2021,24164,29005,0,1,White,Gray
+Toyota Corolla,2020,51445,18998,0,3,White,Black
+Toyota Corolla,2022,55175,17399,0,1,White,Gray
+Toyota Sienna,2022,36981,37894,0,1,Black,Gray
+Subaru Outback,2021,41419,24999,0,1,White,Gray
+Lincoln MKC,2018,32702,20495,0,2,Black,Black
+Ford Escape,2020,12789,22998,0,1,White,Gray
+BMW X3,2021,38581,27806,1,1,Silver,Black
+Nissan Altima,2019,37916,18995,0,2,White,Gray
+Jeep Compass,2016,91570,8999,0,3,Silver,Unknown
+Ford Super Duty F-550 Chassis Cab,2019,72649,41998,0,1,White,Black
+Subaru Outback,2021,32683,28399,0,1,Green,Beige
+Kia Forte,2021,34855,17655,2,1,White,Black
+INFINITI QX50,2020,21949,26998,0,1,Blue,Gray
+Toyota Camry,2020,35399,27788,0,1,Black,Black
+Nissan Sentra,2022,34581,18288,0,1,White,Black
+Nissan Altima,2017,70821,13995,2,3,White,Black
+Mazda CX-30,2021,17131,25998,0,1,White,Gray
+Nissan Sentra,2020,75915,17998,0,1,Gray,Beige
+Nissan Rogue,2017,82765,16998,0,2,Red,Black
+Honda Odyssey,2019,60490,28998,1,4,Brown,Gray
+Mercedes-Benz E-Class,2015,61719,18500,0,2,Silver,Black
+Toyota Prius v,2014,117233,14998,1,2,White,Gray
+Cadillac Escalade,2013,120684,18495,0,2,White,Black
+Hyundai Elantra,2020,38954,15700,2,1,Silver,Black
+Mercedes-Benz CLS,2013,93898,15995,1,3,Silver,Beige
+Honda CR-V,2018,56283,21998,0,3,Gray,Black
+Honda Accord,2021,35442,24998,0,1,White,Unknown
+Nissan Altima,2021,61178,16998,1,1,Gray,Black
+BMW 5 Series,2016,79905,16498,0,2,Gray,White
+Audi A5,2023,4263,40551,0,1,Black,Black
+Chevrolet Trax,2020,25693,15995,0,1,Red,Black
+Jeep Grand Cherokee,2014,63200,18998,0,3,Blue,Black
+Land Rover LR4,2012,95372,15995,0,4,Black,Black
+Jeep Grand Cherokee WK,2021,64314,24744,0,1,Black,Black
+Land Rover Range Rover,2017,50240,69991,0,1,Gray,Black
+Nissan Versa,2021,61306,15288,0,1,Black,Gray
+Honda Pilot,2022,4931,33988,0,1,White,Unknown
+Subaru Crosstrek,2018,61983,19649,0,2,Orange,Black
+Toyota Corolla,2022,27732,19515,0,1,Silver,Black
+BMW X5,2021,31546,37996,0,2,Gray,Black
+Hyundai Sonata,2017,67070,13498,0,1,White,Gray
+Hyundai Santa Fe,2021,29426,20989,0,1,Silver,Gray
+Toyota Camry,2020,35563,24998,0,1,White,Black
+Toyota Corolla,2010,110394,8499,1,1,Gray,Black
+Toyota Camry,2014,117455,10495,0,3,White,Black
+Nissan Sentra,2020,27094,18591,0,1,White,Black
+Mercedes-Benz GLA,2021,35930,27433,0,1,White,Beige
+Lexus CT,2015,39273,22998,1,2,White,Black
+Kia Seltos,2021,4340,21498,0,1,Gray,Black
+Jeep Wrangler,2014,104000,19988,0,3,Silver,Black
+Ram 1500,2019,48152,36998,1,3,Silver,Black
+Nissan Altima,2023,3647,29998,0,2,White,Black
+Nissan Altima,2020,41197,18000,0,1,Silver,Black
+Porsche Macan,2021,20658,42998,0,1,Blue,Black
+Cadillac Escalade,2014,79433,22988,0,2,White,Beige
+Jeep Gladiator,2021,28982,39777,0,1,White,Black
+FIAT 500,2012,106892,6495,2,3,White,Beige
+Hyundai Tucson,2013,71745,13599,1,1,Gray,Black
+INFINITI QX50,2021,24955,28998,0,1,Gray,Gray
+Toyota Corolla,2020,46689,17977,0,2,Black,Black
+Hyundai Elantra,2016,96953,8995,1,3,Black,Black
+Lexus NX,2021,25441,29705,0,1,Gray,Black
+Kia Telluride,2020,120980,23998,1,1,Gray,Black
+Mercedes-Benz GLC,2022,11301,35998,0,1,Gray,Gray
+Audi A5,2012,106320,9795,0,0,Black,Unknown
+Ford Escape,2018,74038,15998,0,1,Gray,Gray
+Kia K5,2022,58892,19599,0,1,Gray,Black
+Toyota 4Runner,2015,89016,27444,0,3,Gray,Black
+Lexus NX,2021,22795,30615,0,1,Gray,Black
+Ram ProMaster City Cargo Van,2021,32878,27997,0,1,White,Black
+Subaru Ascent,2023,5418,44800,0,1,Silver,Gray
+Subaru Outback,2022,19733,29998,1,3,Black,Gray
+Mercedes-Benz GLA,2017,62839,17563,1,2,Gray,Black
+Mercedes-Benz C-Class,2017,84780,18182,0,2,Gray,Blue
+Ford Super Duty F-250,2019,61099,39998,0,1,Gray,Gray
+Honda Accord,2023,3538,25739,0,1,White,Black
+Toyota Mirai,2019,23390,13495,0,2,Silver,Black
+Toyota RAV4,2022,28068,28998,0,1,Gray,Gray
+Nissan Versa,2021,60534,14488,0,1,Gray,Gray
+Subaru Crosstrek,2021,28147,26009,0,1,Blue,Black
+INFINITI QX60,2014,47213,20998,0,1,Silver,Gray
+GMC Yukon,2017,80586,30987,1,1,Black,Black
+BMW M5,2018,36532,53999,1,2,Black,Black
+Chevrolet Tahoe,2021,27019,45793,0,1,Black,Black
+Acura RDX,2015,49279,17489,0,2,Red,Black
+Lexus RX,2020,25363,35200,0,1,White,Black
+Honda CR-V,2022,8124,33995,0,1,Silver,Gray
+Mercedes-Benz E-Class,2020,42859,34269,0,2,Silver,Black
+Lexus RX,2016,55541,24999,2,1,White,Brown
+Chevrolet Silverado 1500 LTD,2022,50071,36998,1,1,White,Black
+BMW X5,2019,21933,38900,0,1,White,Black
+Chevrolet Impala,2019,52582,17498,0,1,Black,Black
+Nissan Kicks,2021,25829,18991,0,1,Black,Black
+Porsche Macan,2018,40585,32998,0,4,White,Black
+Chevrolet Camaro,2014,114516,11999,0,4,Gray,Black
+Ford F-150,2020,38400,35998,0,1,Black,Black
+Chevrolet Silverado 1500,2020,52538,42995,1,1,Silver,Black
+Hyundai Elantra,2019,13314,16555,0,1,Black,Beige
+Chevrolet Tahoe,2018,97560,31998,0,3,Gray,Black
+Honda Accord,2018,110923,17888,0,2,Black,Black
+Toyota Sienna,2010,170124,6994,1,1,Black,Gray
+Toyota Tacoma,2023,10359,41125,0,1,Green,Black
+Honda Civic,2012,92964,9500,2,3,Red,Gray
+INFINITI Q50,2014,73175,19998,0,2,Silver,Gray
+Land Rover Range Rover Sport,2013,88547,15995,0,2,White,Black
+Kia K5,2021,37366,18995,0,1,Silver,Black
+Toyota Corolla,2022,47396,17995,0,1,Black,Gray
+Nissan Versa,2017,64545,8987,0,3,White,Black
+Cadillac ATS-V,2018,43907,39876,0,2,Red,Black
+Honda Civic,2015,97441,15998,0,2,Black,Black
+BMW X3,2021,31308,35998,1,1,Gray,Black
+Dodge Challenger,2020,61648,18991,1,1,Black,Black
+Porsche Cayman,2008,84960,26895,0,0,Gray,Unknown
+Kia Forte,2022,7965,21992,0,1,Blue,Black
+Dodge Challenger,2016,46706,33100,0,3,White,Black
+Nissan Sentra,2017,93195,9792,0,2,Silver,Black
+Kia K5,2021,10999,25656,0,1,Red,Black
+Lincoln Nautilus,2021,8152,35685,0,1,Unknown,Beige
+Kia Forte,2021,31460,17804,0,1,Gray,Black
+Lexus IS,2006,115134,8995,0,3,Unknown,Unknown
+Honda Civic,2016,127909,13750,0,2,Silver,Unknown
+Ram ProMaster Cargo Van,2021,67050,29988,0,1,White,Black
+Mazda CX-30,2020,21162,21998,0,1,Silver,Black
+Honda Odyssey,2022,14994,33998,0,1,Red,Beige
+Volkswagen Tiguan,2021,30519,18967,0,1,Silver,Black
+Audi A5,2016,57313,21995,0,2,Black,Black
+Mercedes-Benz GLK,2014,89332,12989,0,3,Black,Brown
+Mercedes-Benz GLE,2020,54309,33999,0,1,Gray,Black
+Ford F-150,2019,156241,21900,0,2,White,Black
+Toyota Tacoma,2022,29422,30995,0,1,White,Black
+Scion FR-S,2015,56614,17850,2,2,Yellow,Black
+Toyota Camry,2017,75710,16499,1,2,White,Black
+Chevrolet Tahoe,2021,22912,57500,0,1,Black,Black
+BMW X1,2017,75133,14400,1,4,Black,Black
+Kia Sportage,2020,23475,16995,1,1,Red,Black
+Toyota RAV4,2021,33324,29998,0,1,White,Black
+Ford Edge,2017,73638,16998,0,2,White,Beige
+Toyota Corolla,2023,14627,22995,0,1,White,Unknown
+Mercedes-Benz GLB,2023,16847,32999,0,1,White,Black
+Chrysler Pacifica,2018,84586,21998,0,1,White,Black
+Toyota RAV4,2019,55205,25035,0,2,Black,Black
+Audi TTS,2017,61801,28888,0,2,Black,Red
+Mercedes-Benz GL,2015,94152,22499,0,3,Gray,Black
+Kia Forte,2020,34901,16995,0,1,Gray,Gray
+Chevrolet Silverado 1500,2019,82431,26885,0,1,Black,Black
+BMW 3 Series,2019,53046,21999,1,2,White,Beige
+Mercedes-Benz C-Class,2018,49903,22998,0,2,Black,Unknown
+Mercedes-Benz GLA,2018,56075,20109,1,4,Black,Black
+Chevrolet Blazer,2020,57489,23500,0,2,Gray,Black
+Volkswagen Passat,2020,22924,19998,1,1,Black,Black
+Nissan Sentra,2021,60013,18891,0,1,White,Black
+Hyundai Sonata,2015,107558,14998,0,2,Silver,Gray
+Honda Accord,2021,47563,23919,0,2,Black,Black
+Ford Fusion,2016,95995,10495,1,3,Gray,Gray
+Toyota Corolla,2017,38065,18998,1,2,Black,Gray
+Volvo XC60,2021,21348,33691,0,1,Blue,Unknown
+Chevrolet Equinox,2013,109837,8995,0,2,Gray,Black
+Toyota Tacoma,2019,38701,24995,0,2,White,Gray
+Toyota Tacoma,2017,120425,23100,1,2,Silver,Gray
+Honda CR-V,2019,50940,19990,0,1,White,Black
+Toyota Corolla,2020,39731,19994,0,1,Blue,Black
+Kia Optima,2020,22560,18998,0,2,White,Black
+Jeep Cherokee,2021,11570,23030,0,2,White,Black
+Volkswagen Tiguan,2013,107311,7995,0,3,White,Black
+Mercedes-Benz CL,2011,108492,19987,2,4,Black,Black
+Honda Civic,2016,86964,13399,1,4,Gray,Gray
+Ford Escape,2020,33103,19998,0,1,White,Gray
+Jeep Wrangler,2021,32110,32998,0,1,White,Black
+Toyota Prius,2015,78007,16995,1,2,Gray,Gray
+BMW X5,2011,105424,9995,3,2,White,Unknown
+Pontiac Solstice,2008,79559,11795,0,5,Black,Black
+Nissan Versa,2019,28269,10795,2,3,Gray,Black
+Ford Transit Passenger Wagon,2016,245646,17995,0,1,White,Black
+Toyota Tacoma,2019,31914,42998,0,1,White,Black
+Ford Fusion,2018,68502,18998,0,1,Silver,Gray
+Jeep Compass,2018,58555,16995,0,2,White,Black
+Kia Soul,2020,64638,20998,0,2,White,Black
+Acura MDX,2020,36904,28545,0,1,Gray,Black
+Mercedes-Benz C-Class,2023,3755,45940,0,1,Black,Black
+Volkswagen Golf Alltrack,2017,96810,17176,1,1,Black,Beige
+Cadillac CT4,2020,36682,31995,0,1,White,Black
+Kia Optima,2016,103378,8400,0,4,Purple,Beige
+Mercedes-Benz CLA,2015,76806,13494,1,2,Black,Black
+Chevrolet Cruze,2018,107459,10998,2,1,Blue,Black
+Hyundai Tucson,2021,27131,21998,0,1,Gray,Gray
+Mazda CX-5,2023,6869,30750,0,1,Blue,Black
+Subaru Outback,2021,40623,24488,0,1,Gray,Gray
+Toyota Prius Prime,2018,54061,23998,1,1,Gray,Black
+Hyundai Santa Fe Sport,2018,30035,19998,0,1,Gray,Beige
+Mazda CX-5,2019,33975,23998,0,2,White,Beige
+Chevrolet Malibu,2022,33164,19998,0,1,Gray,Gray
+Chevrolet Equinox,2015,94668,14998,0,2,Black,Black
+Mercedes-Benz C-Class,2018,59515,22998,0,2,Black,Black
+BMW 4 Series,2017,58597,21998,0,2,Black,Black
+BMW 3 Series,2014,44920,18998,0,2,Black,Brown
+Dodge Durango,2018,82734,42998,0,2,Black,Black
+Honda Accord,2021,27681,23751,0,1,Red,Black
+Land Rover Defender,2023,7815,74222,0,1,Gray,Black
+Ram 1500,2022,28537,41998,0,1,White,Black
+Toyota Camry,2007,153200,6500,0,2,White,Black
+Ford Focus,2014,74255,8999,0,2,Black,Black
+Toyota Corolla,2021,34105,21998,0,1,White,Black
+Chevrolet Camaro,2012,86277,11999,1,5,Silver,Gray
+Kia Sorento,2012,122903,7498,0,1,Silver,Black
+Ford Escape,2020,14991,21998,0,1,White,Gray
+Audi A3,2023,3670,31894,0,1,Black,Black
+Chrysler Pacifica,2022,39767,27998,0,1,Gray,Black
+Land Rover Range Rover,2009,116233,10995,1,5,Unknown,Unknown
+Ram 1500,2019,97414,27998,0,2,Red,Black
+BMW 4 Series,2021,11709,35999,0,1,Gray,Black
+Honda HR-V,2018,38144,18080,0,1,Gray,Black
+Ford F-150,2020,53981,39998,0,2,Black,Black
+Jeep Grand Cherokee,2017,110677,15995,1,2,Black,Black
+Hyundai Kona,2022,30250,18998,0,1,Silver,Black
+Jeep Wrangler,2018,28546,34998,0,1,Black,Black
+Jeep Grand Cherokee,2020,64488,24497,0,1,Black,Black
+Ford Mustang,2017,15404,28499,0,3,Red,Black
+Kia Forte,2023,10189,21991,0,1,Gray,Black
+Volkswagen Jetta,2021,61784,17851,0,1,Blue,Black
+Ram 1500,2021,85851,31990,0,2,Silver,Gray
+Ford Fusion,2019,92186,13290,0,2,White,Black
+Ford Escape,2017,66095,13009,0,2,White,Black
+Ford Transit Passenger Wagon,2022,34735,52997,0,1,White,Black
+Ford Escape,2017,104814,9950,0,2,Black,Black
+Land Rover Range Rover Sport,2020,58917,38775,0,1,White,Unknown
+Mercedes-Benz GLC,2022,56463,31995,0,1,White,Black
+Land Rover Discovery Sport,2016,117120,15995,0,2,Black,Black
+Ford Explorer,2020,41568,30998,0,1,White,Beige
+Honda Civic,2014,103064,11500,0,2,Gray,Gray
+Maserati Ghibli,2019,17904,36987,0,1,White,Black
+Chrysler Pacifica,2022,23813,31998,0,2,Black,Black
+Volvo V60,2020,16883,32991,0,2,White,Unknown
+Genesis G70,2023,4818,37000,0,1,Blue,Gray
+GMC Yukon,2015,90045,23999,0,2,Black,Black
+Toyota Sienna,2015,113479,19998,0,1,Silver,Black
+Toyota Corolla,2021,53024,18099,0,1,Blue,Gray
+Volvo XC90,2020,35793,33395,0,1,Gray,Beige
+Cadillac XT4,2021,14617,31995,0,1,White,Black
+BMW X3,2020,18784,29171,0,1,Gray,Black
+BMW 3 Series,2017,57798,19998,1,3,White,Black
+Mercedes-Benz R-Class,2012,163810,8995,0,2,White,Beige
+Honda Odyssey,2018,58553,29468,0,1,Black,Black
+Ford Transit Connect Van,2019,82497,20997,0,1,White,Black
+Chevrolet Silverado 1500,2020,38367,35998,1,1,Black,Black
+Porsche Cayman,2007,102373,16981,0,4,Silver,Black
+Audi A5,2018,50180,28333,1,2,White,Brown
+Audi A5,2015,105026,14995,0,2,Black,Black
+INFINITI QX60,2019,66885,21498,0,1,White,Beige
+Ford Explorer,2002,158000,4400,0,3,Black,Unknown
+BMW X5,2021,38845,41998,0,1,Black,Unknown
+Ford Explorer,2020,50559,24988,0,1,Red,Black
+GMC Sierra 1500,2021,56315,46222,1,2,Black,Black
+BMW X1,2018,49680,22998,2,3,White,Black
+Mercedes-Benz GLE,2021,22440,45997,0,1,White,Black
+Hyundai Sonata,2017,132076,8569,0,2,White,Gray
+GMC Terrain,2020,63102,19300,0,1,Black,Black
+Audi S7,2022,16155,73865,1,2,White,Red
+Toyota Tacoma,2021,33465,34732,0,1,Black,Gray
+Chevrolet Impala,2004,165172,4998,0,1,Silver,Gray
+Toyota Sienna,2022,59790,33994,0,1,Red,Gray
+Jeep Compass,2021,45700,21700,0,1,Silver,Black
+Chevrolet Express Cargo Van,2017,128705,17500,0,2,White,Gray
+BMW X3,2013,119424,10000,0,1,Black,Black
+Volkswagen Jetta,2014,35687,14998,0,2,Silver,Black
+BMW X5,2021,49339,36498,0,1,Black,Black
+BMW Z3,2000,24536,13750,0,2,Gray,Black
+Mazda CX-3,2017,39086,18998,1,2,Gray,Black
+Toyota Prius,2015,93421,16998,0,1,White,Gray
+Mercedes-Benz CLA,2023,9070,40820,0,1,Red,Beige
+Cadillac Escalade,2021,38017,80991,0,1,Black,Black
+Mercedes-Benz GLC,2020,29902,27995,0,1,White,Black
+Honda Civic,2021,21299,21900,0,1,Blue,Black
+Dodge Challenger,2014,33306,24998,0,2,Black,Gray
+Ford F-150,2020,39696,58975,0,1,Black,Black
+Kia Optima,2013,69036,12995,1,1,Silver,Beige
+BMW 3 Series,2011,112325,8495,1,3,Black,Black
+Chevrolet Malibu,2021,62054,17998,1,1,White,Black
+Mazda CX-5,2019,92172,15995,2,1,Gray,Black
+Volkswagen Atlas,2021,30560,33500,2,1,Silver,Brown
+Ford Bronco,2022,7511,56215,0,1,Gray,Black
+Jeep Compass,2014,139011,6995,0,2,Gray,Gray
+Ford F-150,2020,108847,22900,0,1,White,Gray
+Nissan Rogue,2023,1942,31891,0,1,Gray,Black
+Kia Optima,2020,40236,17288,0,1,Black,Black
+Subaru Outback,2020,56974,21495,1,1,Blue,Gray
+Chevrolet Camaro,2012,138527,8995,2,5,Black,Black
+Ford Edge,2020,51820,19999,0,2,White,Beige
+Saturn Aura,2007,63951,5599,0,2,Gray,Beige
+Toyota RAV4,2021,18456,30987,0,1,Silver,Black
+Nissan Rogue,2015,63000,13988,0,2,Silver,Black
+Nissan Rogue,2023,6889,26991,0,1,Black,Black
+Chevrolet Silverado 1500,2018,54592,33998,1,2,White,Black
+Honda CR-V,2021,52821,22501,0,1,Silver,Black
+Nissan Versa,2021,64380,15500,0,1,Gray,Gray
+BMW 3 Series,2020,30161,24202,0,1,White,Black
+Ford Escape,2020,35626,22998,1,1,White,Unknown
+Acura TLX,2018,53680,21999,0,3,White,Black
+Toyota Highlander,2021,27089,39995,0,1,Gray,Black
+Nissan Rogue Sport,2022,12713,26988,0,1,White,Gray
+Honda Accord,2008,110820,8998,1,1,White,Beige
+Mitsubishi Outlander,2019,89075,10995,1,3,Black,Black
+Ford Fusion,2019,46770,18988,0,1,Red,Black
+Honda Civic,2016,46806,18995,0,1,Black,Unknown
+Chrysler 300,2017,89970,13999,1,3,White,Beige
+Mercedes-Benz M-Class,2013,89695,12456,0,2,Black,Beige
+Toyota Camry,2020,43209,24998,2,2,White,Black
+Jeep Wrangler,2020,28983,37998,0,1,Gray,Black
+Cadillac Escalade,2020,22460,57995,1,1,Gray,Black
+Chevrolet Silverado 1500,2021,45851,29995,0,1,Gray,Black
+Mercedes-Benz GLC,2019,102692,16991,1,2,White,Black
+Kia Forte,2021,31720,17995,0,1,Gray,Black
+MINI Countryman,2020,15778,24000,0,1,Gray,Black
+Kia Forte,2021,22073,17856,1,1,Gray,Black
+Mercedes-Benz GLC,2021,13279,32495,0,1,Blue,Black
+Toyota Highlander,2019,34585,26490,0,1,White,Gray
+Honda Pilot,2022,25031,29408,0,1,Black,Black
+Kia Seltos,2021,35836,21392,0,1,Blue,Black
+Acura MDX,2020,27707,29464,0,1,White,Beige
+Chevrolet Silverado 1500,2023,114,48995,0,1,White,Black
+Toyota Tacoma,2018,27599,30998,0,1,Silver,Gray
+Toyota RAV4,2022,37662,25994,0,1,White,Brown
+Kia K5,2022,27065,19889,0,1,White,Black
+BMW X3,2021,24994,31963,0,1,Black,Black
+Toyota Sienna,2016,98891,16988,1,2,White,Gray
+Toyota Corolla,2009,150862,5980,0,1,Gray,Gray
+Honda Civic,2013,91679,14599,0,1,Brown,Black
+Volkswagen Tiguan,2020,34122,18250,0,1,Black,Black
+Land Rover Range Rover Evoque,2023,8503,40777,0,1,Gray,Black
+Jeep Gladiator,2020,44093,30986,0,2,White,Black
+Chevrolet Trax,2020,34932,15598,1,1,Black,Black
+Jeep Wrangler,2012,94871,16980,0,2,White,Black
+Chevrolet Tahoe,2020,19394,48998,0,2,Blue,Black
+Kia Sportage,2021,58004,15997,0,1,Red,Black
+Kia Forte,2023,21993,18980,0,1,Gray,Black
+Toyota Sienna,2013,123281,16998,0,1,Gray,Black
+Kia Rio,2020,31644,14777,2,1,Black,Black
+Ford Escape,2019,69418,14900,1,1,White,Gray
+Kia Sportage,2020,17869,17444,0,1,Gray,Black
+Honda CR-V,2021,43092,23518,0,1,Silver,Gray
+Ford F-150,2014,92666,18995,0,2,Black,Gray
+Kia Forte,2021,19080,18587,0,1,Gray,Black
+Jaguar F-PACE,2020,36276,32498,0,1,Black,Unknown
+Toyota Corolla Cross,2022,55639,20938,1,1,Black,Black
+Ram 1500 Classic,2022,5833,23720,0,1,White,Black
+Acura MDX,2022,19654,47998,0,1,White,Black
+Toyota Mirai,2019,39425,11999,0,2,Silver,Unknown
+Dodge Charger,2018,111955,17885,1,3,Black,Black
+Ford F-150,2019,65277,50999,0,1,Silver,Black
+Kia Forte,2022,11164,17345,1,2,Gray,Black
+Dodge Challenger,2020,21595,46998,1,1,Blue,Black
+Honda Pilot,2012,84011,20998,0,1,Black,Black
+Nissan Sentra,2017,83097,8995,0,2,Gray,Black
+Toyota Corolla,2021,51414,19819,0,2,White,Gray
+Hyundai Elantra,2018,80798,16998,0,3,Blue,Black
+Honda CR-V,2020,27752,25998,1,1,White,Black
+Volkswagen Tiguan,2020,30203,20500,0,1,Silver,Black
+Ford Explorer,2020,28941,28998,0,1,Red,Black
+Honda Accord,2020,107595,18330,0,1,Gray,Black
+Volkswagen Jetta,2020,50867,16331,0,1,Gray,Black
+Toyota Prius,2021,42749,22990,0,1,Silver,Black
+Ford F-150,2019,102015,22489,0,1,White,Black
+Porsche Macan,2023,4309,52881,0,1,Gray,Black
+Acura RDX,2017,80884,17500,0,1,Red,Beige
+Jeep Wrangler,2021,25948,41152,0,2,Black,Black
+Ford Explorer,2021,30871,31998,0,1,Black,Black
+Jeep Wrangler,2019,57421,33998,0,1,Gray,Black
+Ford Escape,2020,58381,19998,0,2,White,Gray
+Dodge Durango,2014,135292,12999,0,2,Gray,Black
+Lexus RX,2020,29135,36225,0,1,Gray,Beige
+Toyota Camry,2021,30017,27998,1,1,White,Black
+Ford Mustang,2019,34211,22998,0,1,Silver,Black
+Chevrolet Malibu,2022,30848,18998,0,2,Gray,Gray
+Subaru Outback,2023,2220,38600,0,1,White,Gray
+Ford Explorer,2020,44280,25606,0,1,White,Beige
+Jeep Wrangler,2018,20700,31998,0,2,Gray,Black
+Chevrolet Silverado 1500,2021,41606,36485,0,1,White,Black
+Subaru Forester,2021,15539,23349,0,1,Black,Gray
+Kia Optima,2020,85298,15998,0,2,White,Black
+Chevrolet Silverado 1500,2023,2756,53888,0,1,Gray,Black
+BMW 3 Series,2021,11716,33999,0,1,Blue,Black
+Toyota Camry,2015,72858,15991,0,1,Gray,Gray
+Ford Transit Cargo Van,2019,52902,34997,0,1,White,Gray
+Ford Explorer,2018,54567,19900,2,3,Black,Black
+Ford Escape,2019,76075,13995,0,1,Black,Gray
+Ford Bronco Sport,2022,10843,27095,0,1,Silver,Gray
+Chevrolet Silverado 1500,2023,3201,51995,0,2,White,Black
+Toyota RAV4,2021,71009,22950,0,1,White,Black
+Jeep Grand Cherokee,2020,51609,20991,1,1,Black,Black
+Chevrolet Trailblazer,2022,5086,21488,0,1,White,Black
+Chevrolet Equinox,2020,21350,16995,0,1,Gray,Gray
+GMC Terrain,2021,21991,22498,0,1,White,Black
+Chevrolet Express Cargo Van,2017,117697,18998,0,1,White,Gray
+Toyota Tacoma,2017,31648,29998,0,2,Blue,Gray
+Mercedes-Benz CLA,2021,28977,29998,0,1,Black,Black
+Lexus ES,2020,20520,30900,0,1,Black,Black
+Ford Super Duty F-250,2020,85864,28950,0,1,White,Black
+Nissan Sentra,2020,27966,20998,0,1,Blue,Beige
+Chevrolet Equinox,2020,14250,23998,0,1,Blue,Black
+Subaru Outback,2021,9366,29998,0,1,Black,Beige
+Honda Odyssey,2016,108986,16998,0,1,Blue,Unknown
+BMW 3 Series,2018,34302,23998,0,2,Black,Black
+BMW X5,2018,35165,31998,0,1,Black,Black
+Toyota RAV4,2018,50762,22998,0,2,Gray,Black
+Toyota Corolla,2015,47326,18998,0,2,Blue,Black
+Mazda CX-5,2016,65687,17998,0,2,White,Black
+Chevrolet Silverado 1500,2018,40385,30998,0,1,Black,Black
+Toyota Prius,2015,78823,17998,0,2,Gray,Gray
+Subaru Crosstrek,2021,33075,25500,0,1,Black,Black
+Toyota Corolla,2021,53198,17898,0,1,Gray,Gray
+Ford F-150,2019,104679,20998,0,1,White,Gray
+BMW X3,2021,40812,29411,1,1,White,Black
+Mercedes-Benz E-Class,2005,107275,6495,2,3,Tan,Gray
+Toyota Corolla,2021,27605,19995,0,1,White,Black
+Jeep Patriot,2015,147993,6889,0,3,White,Gray
+Mazda CX-5,2021,20647,24750,0,1,Black,Black
+Chrysler 300,2016,163262,11997,0,2,Black,Beige
+Mercedes-Benz GLC,2023,9390,52880,0,1,Black,Black
+Lexus RX,2020,34298,34998,0,1,Blue,Gray
+Honda Passport,2021,32009,24381,2,1,Gray,Black
+Jeep Cherokee,2019,62675,17777,1,3,Red,Black
+Nissan Rogue Sport,2020,74943,15995,1,3,Gray,Black
+Toyota Camry,2018,11043,28998,0,2,Blue,Black
+Toyota Tacoma,2021,23998,32995,0,2,Silver,Gray
+Mercedes-Benz S-Class,2020,28400,56656,0,1,Black,Black
+Acura TLX,2021,41046,27236,0,1,White,Black
+BMW 4 Series,2016,98285,15595,0,3,White,Unknown
+Toyota C-HR,2019,40322,18795,0,2,Gray,Black
+Ram 1500,2021,6006,42987,0,1,White,Black
+Ford Escape,2020,21420,21998,0,1,Gray,Beige
+Ford Escape,2020,27318,20998,0,1,Black,Gray
+Audi Q5,2010,158250,4995,1,1,Gray,Black
+Ford Econoline Cargo Van,2013,118282,13885,0,1,White,Gray
+Audi Q3,2021,18982,27993,0,1,Gray,Black
+Jeep Grand Cherokee WK,2021,60994,25995,0,1,Silver,Black
+Nissan Sentra,2021,38250,17414,0,2,Black,Black
+Nissan Altima,2015,72041,9695,1,2,Red,Black
+BMW 3 Series,2021,48625,38999,0,1,Black,Black
+Toyota Tacoma,2021,48472,29998,0,1,Silver,Gray
+Chevrolet Equinox,2020,29350,21998,1,1,Gray,Black
+Honda HR-V,2021,40688,21257,1,1,White,Black
+BMW X3,2021,36680,28998,0,1,White,Black
+Mercedes-Benz CLA,2023,10987,38071,0,1,Black,Black
+Toyota Camry,2021,30566,25998,0,1,White,Gray
+Honda Accord,2020,22455,25381,0,1,Silver,Gray
+Toyota Corolla,2021,63930,16988,0,1,White,Black
+Jaguar XF,2013,111040,7777,1,3,Red,Beige
+Honda Civic,2020,41624,19251,0,1,Gray,Black
+Ford Expedition,2020,41792,47495,0,2,White,Black
+Toyota RAV4,2021,62815,24994,1,2,White,Black
+Acura MDX,2020,42221,30998,1,1,Gray,Black
+Ford F-150,2021,63699,33900,0,1,White,Black
+Mercedes-Benz C-Class,2020,20556,30998,0,1,Black,Black
+Mercedes-Benz GLC,2021,60901,25600,0,1,White,Gray
+Land Rover Range Rover Evoque,2020,63634,24888,0,1,Black,Black
+Chevrolet Malibu,2017,25561,18998,0,1,Red,Black
+Porsche Boxster,2016,42202,40912,1,2,Black,Black
+Ford F-150,2021,41032,35998,0,1,White,Gray
+Nissan Altima,2016,85000,10995,0,3,Blue,Black
+Audi Q5,2022,5030,37405,0,1,Black,Black
+Lexus RX,2018,44251,29488,0,2,Gray,Black
+MINI Hardtop,2021,31100,19999,1,1,White,Black
+Toyota Highlander,2021,27030,34995,0,1,Black,Gray
+Toyota Tundra,2021,17070,45998,1,1,Gray,Gray
+Lincoln MKX,2013,142018,9998,1,1,Silver,Gray
+Ford Super Duty F-250,2019,135320,21998,0,1,White,Gray
+BMW X3,2020,25887,27411,0,1,Silver,Black
+Ford F-150,2022,10142,37998,0,1,Blue,Black
+Hyundai Elantra,2016,65914,8650,4,2,Black,Gray
+Mazda CX-90,2024,3459,50491,0,1,Red,White
+Honda Civic,2013,124932,11268,2,5,Black,Black
+Jeep Grand Cherokee WK,2021,35788,27995,0,1,White,Black
+Lexus RX,2021,53980,33998,1,2,Silver,Gray
+Honda Civic,2021,21823,22588,0,1,Gray,Black
+Ford Fusion,2018,63730,16998,0,3,White,Black
+Scion xB,2014,109345,7949,1,2,White,Black
+Toyota Mirai,2021,32197,14990,0,1,White,Black
+Toyota Corolla,2021,41380,19998,0,1,Blue,Black
+Subaru Outback,2023,5348,34100,0,1,Green,Gray
+Jeep Gladiator,2021,26719,34998,0,1,Black,Black
+GMC Sierra 1500,2015,46841,25489,0,1,Gray,Black
+Ford F-150,2013,111450,15995,0,2,White,Gray
+Toyota Corolla,2015,59986,14482,1,3,Black,Gray
+Land Rover Discovery Sport,2017,102168,13999,0,4,Black,Black
+Ford Fusion,2017,114722,11995,0,4,White,Black
+Ram 1500,2020,58499,30998,0,2,White,Black
+Mercedes-Benz GLE,2022,10504,95295,0,1,Silver,Black
+Jeep Cherokee,2019,29907,20457,0,1,Black,Black
+Lexus IS,2021,25598,31991,0,1,White,Red
+Chevrolet Equinox,2020,30317,17800,0,1,Gray,Gray
+Toyota Camry,2018,76480,17929,0,2,White,Black
+Jaguar XJ,2018,30267,32991,1,2,Black,Black
+Nissan Sentra,2017,73181,10797,0,1,White,Black
+Jeep Cherokee,2019,54659,20998,3,3,Black,Black
+Hyundai Sonata,2021,29325,24495,0,1,Gray,Gray
+Ford Fiesta,2014,119943,4495,0,3,White,Unknown
+Honda Accord,2014,130330,10299,2,2,Black,Beige
+Toyota Sienna,2014,145219,9995,2,3,Gray,Gray
+Ford Explorer,2021,29187,39988,0,1,Blue,Black
+Volkswagen Tiguan,2021,15685,21199,0,1,Black,Black
+Alfa Romeo Giulia,2023,25,38844,0,1,White,Black
+Nissan Altima,2019,50720,23998,1,2,Black,Black
+Ram 1500,2020,35608,38998,0,1,Black,Black
+BMW 2 Series,2020,9800,30696,0,1,Gray,Black
+Chevrolet Equinox,2018,93999,12998,0,1,White,Gray
+Acura MDX,2020,18718,32986,0,1,Gray,Black
+Hyundai Santa Fe Sport,2014,83307,12498,1,1,Silver,Gray
+Toyota Corolla,2015,72921,17998,0,2,Black,Black
+Jeep Gladiator,2020,28769,39998,0,2,White,Black
+Jeep Wrangler,2018,57849,31998,1,1,White,Black
+Hyundai Sonata,2016,87333,14998,0,3,Brown,Beige
+Nissan Kicks,2018,20185,19998,0,1,Silver,Black
+Volkswagen Atlas,2019,38711,25998,0,1,White,Black
+Toyota Tacoma,2021,37852,39998,0,1,Silver,Black
+Mercedes-Benz GLK,2015,67764,19998,0,4,White,Unknown
+Ford Thunderbird,2002,1357,22000,0,1,Yellow,Yellow
+BMW X3,2021,36510,29995,0,1,White,Black
+Volkswagen Jetta,2019,55802,18998,0,1,Silver,Black
+Dodge Ram 1500,2006,143127,9895,0,3,Unknown,Unknown
+Toyota C-HR,2021,59626,21400,0,1,White,Black
+Chrysler Town & Country,2016,108178,11998,0,2,Gray,Black
+Kia Forte,2021,21043,17941,0,1,Blue,Black
+Lexus RX,2021,38887,39991,1,1,Silver,Black
+Subaru WRX,2016,25253,29998,0,3,Red,Black
+INFINITI Q50,2016,137779,9448,0,2,White,Beige
+Subaru Impreza,2024,3804,24469,0,1,Blue,Black
+Mercedes-Benz C-Class,2017,41085,20500,0,2,Black,Black
+BMW 5 Series,2023,11651,46888,0,2,Black,Black
+Hyundai Kona,2020,22843,20998,0,2,Silver,Black
+Lexus UX,2021,31903,27980,1,1,White,Black
+Toyota Corolla,2017,104323,12494,0,2,White,Black
+Toyota RAV4,2023,26309,27994,0,1,Silver,Black
+Chevrolet Colorado,2018,69981,21998,1,2,Gray,Black
+Lexus IS,2016,31351,21720,1,1,Black,Black
+Acura RDX,2021,22980,28466,0,1,Gray,Black
+Dodge Challenger,2013,125240,11988,1,2,Black,Gray
+Mercedes-Benz C-Class,2023,9165,47908,0,1,Gray,Brown
+BMW 2 Series,2022,8177,32997,0,1,Black,Black
+Toyota C-HR,2021,44826,21960,0,2,Gray,Black
+Chrysler 300,2013,96026,12996,0,1,White,Black
+Acura RDX,2021,10748,32000,0,1,Silver,Black
+Porsche Macan,2023,7627,54983,0,1,White,Black
+Honda HR-V,2021,21962,19999,0,1,Black,Black
+Audi Q7,2023,13787,65346,0,1,Black,Black
+Toyota RAV4,2018,29341,21488,0,1,Silver,Black
+Volvo S60,2020,21188,27998,0,2,White,Black
+Ford F-150,2021,61472,33900,1,1,Black,Black
+Chevrolet Silverado 1500,2021,48331,33998,1,1,Gray,Black
+Mazda Mazda3,2013,113781,9495,3,1,White,Black
+Land Rover Range Rover Sport,2020,27983,50888,0,2,White,Black
+Ford Fusion,2017,96774,17998,0,3,Silver,Unknown
+Ram 1500,2019,49845,31998,0,2,Gray,Black
+INFINITI QX60,2014,84525,14495,0,1,Black,Gray
+Jeep Gladiator,2022,3900,42998,0,1,Silver,Black
+Toyota Tacoma,2022,42477,36500,0,2,Silver,Gray
+Chevrolet Malibu,2022,31864,20998,1,1,Black,Black
+Kia Seltos,2021,23936,22000,0,2,White,Black
+Honda Odyssey,2011,178527,9554,0,3,White,Gray
+BMW 5 Series,2014,105006,11261,0,2,Gray,Black
+Jeep Wrangler,2021,49638,28998,0,1,Black,Black
+Ram 1500 Classic,2019,39860,28998,0,1,Black,Black
+Kia Forte,2021,34669,19361,0,1,White,Black
+Jeep Compass,2020,28857,22998,0,2,Gray,Black
+GMC Sierra 1500,2018,76896,35998,1,1,White,Black
+Mercedes-Benz C-Class,2020,15038,32072,0,1,Black,Black
+GMC Sierra 1500,2021,20382,46995,0,1,Gray,Black
+Porsche Macan,2023,5183,54983,0,1,Red,Black
+Honda Civic,2016,52912,17998,0,2,Black,Black
+Ford F-150,2020,40282,38998,0,3,Gray,Black
+BMW 3 Series,2020,25563,25965,0,1,Black,Black
+Volkswagen Tiguan,2020,43990,19998,1,1,Gray,Black
+Nissan Altima,2022,5165,25998,0,1,White,Black
+Volkswagen Atlas,2019,83063,17963,0,1,Red,Beige
+Ford Super Duty F-350,2019,59269,38998,0,1,White,Gray
+Chevrolet Tahoe,2023,14724,70000,0,1,Black,Black
+Mercedes-Benz GLA,2020,46300,22000,1,2,Black,Black
+Jeep Wrangler,2020,36667,31998,0,1,Blue,Black
+Ford F-150,2004,90679,10900,0,1,White,Gray
+Mazda CX-5,2021,43421,21837,0,1,Black,Black
+Toyota Sienna,2020,45457,28263,0,1,White,Gray
+Chevrolet Malibu,2022,37960,20998,0,1,White,Black
+Chevrolet Trailblazer,2022,17582,22888,0,1,Black,Black
+BMW X3,2021,38424,28994,1,1,Blue,Brown
+Ram 1500,2020,20820,41998,0,1,Black,Black
+Acura MDX,2020,32255,29998,0,2,Black,Unknown
+Lexus RX,2021,19205,38998,2,1,Black,Unknown
+Ram 1500,2019,20223,34998,0,1,White,Black
+Volkswagen Tiguan,2020,26130,22998,0,1,Black,Gray
+Nissan Altima,2022,29182,19998,1,2,Gray,Black
+Ford Explorer,2020,34328,30998,0,1,Blue,Black
+Nissan Altima,2017,95696,11995,0,2,White,Black
+BMW X6,2023,8885,81999,0,1,Gray,Black
+Volkswagen Atlas Cross Sport,2020,27839,27998,0,1,Gray,Black
+Ford Super Duty F-250,2015,103609,31995,0,4,Gray,Black
+Ford Escape,2022,26521,28468,0,1,Gray,Black
+Volkswagen Tiguan,2021,29540,19500,0,1,Black,Gray
+Honda Civic,2015,150105,8495,2,1,Gray,Black
+BMW 3 Series,2020,24655,29998,0,1,Black,Beige
+Ford Escape,2013,98601,8995,2,3,Silver,Unknown
+Mercedes-Benz R-Class,2009,120694,9495,1,3,Black,Black
+Mercedes-Benz GLC,2022,27894,29999,0,2,Gray,Gray
+Honda CR-V,2021,50220,22992,0,1,Gray,Unknown
+Honda Civic,2021,26510,24135,0,1,White,Black
