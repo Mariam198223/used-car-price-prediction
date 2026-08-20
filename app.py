@@ -37,14 +37,12 @@ model, preprocessor = load_files()
 st.markdown("""
 <style>
 
-    /* Main container */
     .block-container {
         max-width: 900px;
         padding-top: 3rem;
         padding-bottom: 2rem;
     }
 
-    /* Header */
     .main-title {
         text-align: center;
         font-size: 38px;
@@ -59,25 +57,21 @@ st.markdown("""
         margin-bottom: 35px;
     }
 
-    /* Section title */
     .section-title {
         font-size: 22px;
         font-weight: 650;
         margin-bottom: 20px;
     }
 
-    /* Input labels */
     label {
         font-weight: 500 !important;
     }
 
-    /* Input fields */
     div[data-baseweb="select"] > div,
     div[data-baseweb="input"] > div {
         border-radius: 10px;
     }
 
-    /* Predict button */
     div.stButton > button {
         width: 100%;
         height: 48px;
@@ -87,7 +81,6 @@ st.markdown("""
         margin-top: 15px;
     }
 
-    /* Footer */
     .footer {
         text-align: center;
         opacity: 0.5;
@@ -172,28 +165,30 @@ with col3:
     miles = st.number_input(
         "Miles",
         min_value=0,
-        max_value=310000,
         value=30000,
         step=100
     )
 
     if miles > 310000:
         st.warning(
-            "That's a long journey! Max: 310,000 miles.")
-        
+            "That's a long journey! Max: 310,000 miles."
+        )
+
 
 with col4:
 
     accidents = st.number_input(
         "Accidents",
         min_value=0,
-        max_value=5,
         value=0,
         step=1
     )
 
     if accidents > 5:
-        st.warning(" 5+ accidents? Looking for a car or scrap? 🤨")
+        st.warning(
+            "5+ accidents? Looking for a car or scrap? 🤨"
+        )
+
 
 # ==========================================
 # Row 3
@@ -206,13 +201,15 @@ with col5:
     Owner = st.number_input(
         "Number of Owners",
         min_value=1,
-        max_value=8,
         value=1,
         step=1
     )
 
     if Owner > 8:
-        st.warning("8 owners is enough, dear!✋🏻😔")
+        st.warning(
+            "8 owners is enough, dear! ✋🏻😔"
+        )
+
 
 with col6:
 
@@ -271,62 +268,98 @@ predict = st.button(
 
 if predict:
 
-    # Create DataFrame with EXACT same
-    # column names used during training
+    # ======================================
+    # Validate Inputs
+    # ======================================
 
-    input_data = pd.DataFrame({
-        "name": [name],
-        "year": [year],
-        "miles": [miles],
-        "accidents": [accidents],
-        "Owner": [Owner],
-        "exterior_color": [exterior_color],
-        "interior_color": [interior_color]
-    })
-
-
-    try:
-
-        # Apply the SAME preprocessing
-        # used during model training
-
-        input_transformed = preprocessor.transform(
-            input_data
-        )
-
-
-        # Predict price
-
-        prediction = model.predict(
-            input_transformed
-        )
-
-        predicted_price = prediction[0]
-
-
-        # ======================================
-        # Prediction Result
-        # ======================================
-
-        st.success("Prediction completed successfully! 🚀")
-
-        st.metric(
-            label="Estimated Car Price",
-            value=f"${predicted_price:,.2f}"
-        )
-
-        st.caption(
-            f"{name} • {year} • {miles:,} miles"
-        )
-
-
-    except Exception as e:
+    if year < 2000 or year > 2024:
 
         st.error(
-            "An error occurred while making the prediction."
+            "❌ Please enter a year between 2000 and 2024."
         )
 
-        st.code(str(e))
+    elif miles > 310000:
+
+        st.error(
+            "❌ Miles must be 310,000 or less."
+        )
+
+    elif accidents > 5:
+
+        st.error(
+            "❌ Accidents must be 5 or less."
+        )
+
+    elif Owner > 8:
+
+        st.error(
+            "❌ Number of owners must be 8 or less."
+        )
+
+    else:
+
+        # ======================================
+        # Create Input DataFrame
+        # ======================================
+
+        input_data = pd.DataFrame({
+            "name": [name],
+            "year": [year],
+            "miles": [miles],
+            "accidents": [accidents],
+            "Owner": [Owner],
+            "exterior_color": [exterior_color],
+            "interior_color": [interior_color]
+        })
+
+
+        try:
+
+            # ======================================
+            # Apply Preprocessing
+            # ======================================
+
+            input_transformed = preprocessor.transform(
+                input_data
+            )
+
+
+            # ======================================
+            # Prediction
+            # ======================================
+
+            prediction = model.predict(
+                input_transformed
+            )
+
+            predicted_price = prediction[0]
+
+
+            # ======================================
+            # Prediction Result
+            # ======================================
+
+            st.success(
+                "Prediction completed successfully! 🚀"
+            )
+
+            st.metric(
+                label="Estimated Car Price",
+                value=f"${predicted_price:,.2f}"
+            )
+
+            st.caption(
+                f"{name} • {year} • {miles:,} miles"
+            )
+
+
+        except Exception as e:
+
+            st.error(
+                "An error occurred while making the prediction."
+            )
+
+            st.code(str(e))
 
 
 # ==========================================
