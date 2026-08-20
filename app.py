@@ -147,7 +147,7 @@ with col2:
     year = st.number_input(
         "Year",
         min_value=2000,
-        max_value=2024
+        max_value=2024,
         value=2020,
         step=1
     )
@@ -176,6 +176,7 @@ with col3:
     miles = st.number_input(
         "Miles",
         min_value=0,
+        max_value=310000,
         value=30000,
         step=100
     )
@@ -192,6 +193,7 @@ with col4:
     accidents = st.number_input(
         "Accidents",
         min_value=0,
+        max_value=5,
         value=0,
         step=1
     )
@@ -214,6 +216,7 @@ with col5:
     Owner = st.number_input(
         "Number of Owners",
         min_value=1,
+        max_value=8,
         value=1,
         step=1
     )
