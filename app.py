@@ -158,7 +158,7 @@ with col2:
         value=2020,
         step=1
     )
-
+    st.caption("⚠️ Please enter a year between 2000 and 2024.")
 
 # ==========================================
 # Row 2
