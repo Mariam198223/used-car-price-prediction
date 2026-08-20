@@ -155,10 +155,11 @@ with col2:
     "Year",
     value=2020,
     step=1
-)
 
 if year < 2000 or year > 2024:
     st.error("⚠️ The allowed year range is from 2000 to 2024.")
+)
+
 
 # ==========================================
 # Row 2
