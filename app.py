@@ -177,6 +177,10 @@ with col3:
         step=100
     )
 
+    if miles > 310000:
+        st.warning(
+            "That's a long journey! Max: 310,000 miles.")
+        
 
 with col4:
 
@@ -188,6 +192,8 @@ with col4:
         step=1
     )
 
+    if accidents > 5:
+        st.warning(" 5+ accidents? Looking for a car or scrap? 🤨")
 
 # ==========================================
 # Row 3
@@ -205,6 +211,8 @@ with col5:
         step=1
     )
 
+    if Owner > 8:
+        st.warning("8 owners is enough, dear!✋🏻😔")
 
 with col6:
 
