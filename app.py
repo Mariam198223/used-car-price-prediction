@@ -354,7 +354,7 @@ if predict:
             if predicted_price <= 0:
 
                 st.warning(
-                    "We don’t price cars like that—try the nearest junkyard instead"
+                    "We don’t price cars like that ,try the nearest junkyard instead🫪"
                 )
 
             else:
