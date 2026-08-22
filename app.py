@@ -351,7 +351,7 @@ if predict:
             # Prediction Result
             # ======================================
 
-            if predicted_price <= 0:
+            if predicted_price <= 4390:
 
                 st.warning(
                     "We don’t price cars like that ,try the nearest junkyard instead😘"
